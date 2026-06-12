@@ -1,0 +1,46 @@
+name: concert-monitor
+
+on:
+  schedule:
+    # 15:00 UTC = 11am ET (EDT, summer) / 10am ET (EST, winter).
+    # Runs Monday, Wednesday, Friday.
+    - cron: "0 15 * * 1,3,5"
+  workflow_dispatch: {}   # lets you trigger a run on demand (incl. from the GitHub mobile app)
+
+permissions:
+  contents: write          # needed so the run can commit the updated baseline back
+
+concurrency:
+  group: concert-monitor
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run monitor
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          # Optional: set NTFY_SERVER as a secret if you self-host ntfy.
+          NTFY_SERVER: ${{ secrets.NTFY_SERVER }}
+        run: python monitor.py
+
+      - name: Commit updated baseline & log
+        run: |
+          git config user.name "concert-monitor"
+          git config user.email "actions@users.noreply.github.com"
+          git add known_shows.json new_shows_log.md 2>/dev/null || true
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Update baseline ($(date -u +%Y-%m-%d))"
+            git push
+          fi
