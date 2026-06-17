@@ -26,8 +26,8 @@ import urllib.error
 STATE_FILE = "known_shows.json"
 LOG_FILE = "new_shows_log.md"
 
-NTFY_SERVER = os.environ.get("NTFY_SERVER", "https://ntfy.sh").rstrip("/")
-NTFY_TOPIC = os.environ.get("NTFY_TOPIC")
+NTFY_SERVER = (os.environ.get("NTFY_SERVER") or "https://ntfy.sh").rstrip("/")
+NTFY_TOPIC = os.environ.get("NTFY_TOPIC") or None
 
 # Slugs starting with any of these are ignored (not real public concerts).
 IGNORE_PREFIXES = ("private-event",)
