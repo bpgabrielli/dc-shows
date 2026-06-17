@@ -1,0 +1,246 @@
+# New Shows Log
+
+Each run prepends newly-detected shows here. Most recent at top.
+
+---
+
+## 2026-06-17 — 229 new show(s)
+
+**Black Cat**
+- Brian Fallon — https://www.blackcatdc.com/shows/brian-fallon.html
+- Ceremony — https://www.blackcatdc.com/shows/ceremony.html
+- Holy Rollers — https://www.blackcatdc.com/shows/holy-rollers.html
+- Rastape — https://www.blackcatdc.com/shows/rastape.html
+- Ryan Davis — https://www.blackcatdc.com/shows/ryan-davis.html
+- Seven Days Gogo — https://www.blackcatdc.com/shows/seven-days-gogo.html
+- Show Updates — https://www.blackcatdc.com/shows/show-updates.html
+- Strange Boutique — https://www.blackcatdc.com/shows/strange-boutique.html
+
+**IMP (9:30 Club / Anthem / Lincoln / Merriweather)**
+- 2Charm — https://impconcerts.com/event/2charm/
+- All Things Go Music Festival — https://impconcerts.com/event/all-things-go-music-festival/
+- All Things Go Music Festival Friday — https://impconcerts.com/event/all-things-go-music-festival-friday/
+- All Things Go Music Festival Saturday — https://impconcerts.com/event/all-things-go-music-festival-saturday/
+- All Things Go Music Festival Sunday — https://impconcerts.com/event/all-things-go-music-festival-sunday/
+- Amber Autry Happy Holler Tour — https://impconcerts.com/event/amber-autry-happy-holler-tour/
+- Amber Autry Happy Holler Tour 2 — https://impconcerts.com/event/amber-autry-happy-holler-tour-2/
+- Amble — https://impconcerts.com/event/amble/
+- Balthvs — https://impconcerts.com/event/balthvs/
+- Basement — https://impconcerts.com/event/basement/
+- Bebe Stockwell — https://impconcerts.com/event/bebe-stockwell/
+- Beck Ride Lonesome Tour — https://impconcerts.com/event/beck-ride-lonesome-tour/
+- Bedouine — https://impconcerts.com/event/bedouine/
+- Bertha Grateful Drag — https://impconcerts.com/event/bertha-grateful-drag/
+- Blake Whiten — https://impconcerts.com/event/blake-whiten/
+- Blondshell Scaring Strangers Tour — https://impconcerts.com/event/blondshell-scaring-strangers-tour/
+- Brenn Amateur At Best World Tour — https://impconcerts.com/event/brenn-amateur-at-best-world-tour/
+- Brenn Vip Upgrade Ticket Not Included — https://impconcerts.com/event/brenn-vip-upgrade-ticket-not-included/
+- Buffalo Traffic Jam Pictures Of You Tour — https://impconcerts.com/event/buffalo-traffic-jam-pictures-of-you-tour/
+- Circle Jerks — https://impconcerts.com/event/circle-jerks/
+- Dadi Freyr — https://impconcerts.com/event/dadi-freyr/
+- Dan Whitlam — https://impconcerts.com/event/dan-whitlam/
+- Dana And Alden Papas Boat Tour — https://impconcerts.com/event/dana-and-alden-papas-boat-tour/
+- Daniel Donatos Cosmic Country — https://impconcerts.com/event/daniel-donatos-cosmic-country/
+- Daniel Donatos Cosmic Country 2 — https://impconcerts.com/event/daniel-donatos-cosmic-country-2/
+- Daniel Donatos Cosmic Country Two Night Pass — https://impconcerts.com/event/daniel-donatos-cosmic-country-two-night-pass/
+- Die Spitz — https://impconcerts.com/event/die-spitz/
+- Donny Benet — https://impconcerts.com/event/donny-benet/
+- Ecca Vandal — https://impconcerts.com/event/ecca-vandal/
+- Emei Night At The Opera Tour — https://impconcerts.com/event/emei-night-at-the-opera-tour/
+- Ethan Regan Young Regan Tour — https://impconcerts.com/event/ethan-regan-young-regan-tour/
+- Everything Everything Get To Heaven 10Th Anniversary North America — https://impconcerts.com/event/everything-everything-get-to-heaven-10th-anniversary-north-america/
+- Feeble Little Horse Bitknot Tour — https://impconcerts.com/event/feeble-little-horse-bitknot-tour/
+- Fkj Tyber Tour — https://impconcerts.com/event/fkj-tyber-tour/
+- Foster The People Good Mourning Sunshine — https://impconcerts.com/event/foster-the-people-good-mourning-sunshine/
+- Francisca Valenzuela — https://impconcerts.com/event/francisca-valenzuela/
+- Friko Something Worth Waiting For The Tour — https://impconcerts.com/event/friko-something-worth-waiting-for-the-tour/
+- Fruit Bats — https://impconcerts.com/event/fruit-bats/
+- Geese Getting Killed Again Tour — https://impconcerts.com/event/geese-getting-killed-again-tour/
+- Geese Getting Killed Again Tour 2 — https://impconcerts.com/event/geese-getting-killed-again-tour-2/
+- Giant Rooks — https://impconcerts.com/event/giant-rooks/
+- Gilla Band — https://impconcerts.com/event/gilla-band/
+- Grace Enger The Satisfied Girl Tour — https://impconcerts.com/event/grace-enger-the-satisfied-girl-tour/
+- Gregory Porter Dc Jazz Festival Benefit Concert A Night Of Stars — https://impconcerts.com/event/gregory-porter-dc-jazz-festival-benefit-concert-a-night-of-stars/
+- Gwar — https://impconcerts.com/event/gwar/
+- Hank Azaria The Ez Street Band — https://impconcerts.com/event/hank-azaria-the-ez-street-band/
+- Haute Freddys Big Disgrace Tour — https://impconcerts.com/event/haute-freddys-big-disgrace-tour/
+- Hey Nothing The Hound Tour — https://impconcerts.com/event/hey-nothing-the-hound-tour/
+- Hiss Golden Messenger Im People Tour — https://impconcerts.com/event/hiss-golden-messenger-im-people-tour/
+- Holywatr Deo Gratias Tour — https://impconcerts.com/event/holywatr-deo-gratias-tour/
+- Honestav The Sweet American Boy Tour — https://impconcerts.com/event/honestav-the-sweet-american-boy-tour/
+- Ibeyi — https://impconcerts.com/event/ibeyi/
+- Indigo Girls — https://impconcerts.com/event/indigo-girls/
+- Ivri — https://impconcerts.com/event/ivri/
+- Jesse Welles — https://impconcerts.com/event/jesse-welles/
+- Jessie Ware The Superbloom Tour 2026 — https://impconcerts.com/event/jessie-ware-the-superbloom-tour-2026/
+- Jim Hensons Labyrinth In Concert 40Th Anniversary — https://impconcerts.com/event/jim-hensons-labyrinth-in-concert-40th-anniversary/
+- Johnny Blue Skies The Dark Clouds — https://impconcerts.com/event/johnny-blue-skies-the-dark-clouds/
+- Jordan Jensen — https://impconcerts.com/event/jordan-jensen/
+- Jukebox The Ghost Halloqueen — https://impconcerts.com/event/jukebox-the-ghost-halloqueen/
+- Julia Jacklin North America Tour 2026 — https://impconcerts.com/event/julia-jacklin-north-america-tour-2026/
+- Julia Wolf — https://impconcerts.com/event/julia-wolf/
+- Jungle World Tour 2026 2 — https://impconcerts.com/event/jungle-world-tour-2026-2/
+- Katie Pruitt Fools For The Fleeting Tour — https://impconcerts.com/event/katie-pruitt-fools-for-the-fleeting-tour/
+- Knocked Loose Denzel Curry — https://impconcerts.com/event/knocked-loose-denzel-curry/
+- Laundry Day Presents The Larger Than Life Tour — https://impconcerts.com/event/laundry-day-presents-the-larger-than-life-tour/
+- Lauren Sanderson Come Say Sum Tour — https://impconcerts.com/event/lauren-sanderson-come-say-sum-tour/
+- Lilyisthatyou — https://impconcerts.com/event/lilyisthatyou/
+- Little Shop Of Horrors 40Th Anniversary Screening With Ellen Green — https://impconcerts.com/event/little-shop-of-horrors-40th-anniversary-screening-with-ellen-green/
+- Logic G Eazy The Endless Summer Part Ii — https://impconcerts.com/event/logic-g-eazy-the-endless-summer-part-ii/
+- Lolo God Forbid A Girl Goes On Tour — https://impconcerts.com/event/lolo-god-forbid-a-girl-goes-on-tour/
+- Margaret Glaspy The I Am Both Tour — https://impconcerts.com/event/margaret-glaspy-the-i-am-both-tour/
+- Maris — https://impconcerts.com/event/maris/
+- Mastodon — https://impconcerts.com/event/mastodon/
+- Mastodon Vip Upgrades Ticket Not Included — https://impconcerts.com/event/mastodon-vip-upgrades-ticket-not-included/
+- Matt Hansen The Orchid Tour — https://impconcerts.com/event/matt-hansen-the-orchid-tour/
+- Michelle Wolf Best Job In The World — https://impconcerts.com/event/michelle-wolf-best-job-in-the-world/
+- Michigander — https://impconcerts.com/event/michigander/
+- Mico Running From A Feeling Tour — https://impconcerts.com/event/mico-running-from-a-feeling-tour/
+- Mo Lowda The Humble Tailing The Ghost Tour — https://impconcerts.com/event/mo-lowda-the-humble-tailing-the-ghost-tour/
+- Morrissey — https://impconcerts.com/event/morrissey/
+- Nimino Keep Me Awake Tour — https://impconcerts.com/event/nimino-keep-me-awake-tour/
+- Palace Usa Canada Tour — https://impconcerts.com/event/palace-usa-canada-tour/
+- Paloma Morphy — https://impconcerts.com/event/paloma-morphy/
+- Paris Paloma — https://impconcerts.com/event/paris-paloma/
+- Paris Paloma The Fatal Flaw Tour — https://impconcerts.com/event/paris-paloma-the-fatal-flaw-tour/
+- Power To The People Festival — https://impconcerts.com/event/power-to-the-people-festival/
+- Public Image Ltd This Is Not The Last Tour — https://impconcerts.com/event/public-image-ltd-this-is-not-the-last-tour/
+- Red Leather Tahoe Tour — https://impconcerts.com/event/red-leather-tahoe-tour/
+- Roz Presents Se Esta Haciendo Tarde — https://impconcerts.com/event/roz-presents-se-esta-haciendo-tarde/
+- Sammy Rae The Friends — https://impconcerts.com/event/sammy-rae-the-friends/
+- Sammy Rae The Friends 2 — https://impconcerts.com/event/sammy-rae-the-friends-2/
+- Sammy Rae The Friends 3 — https://impconcerts.com/event/sammy-rae-the-friends-3/
+- Sawyer Hill Everybodys Home Nobodys Happy World Tour — https://impconcerts.com/event/sawyer-hill-everybodys-home-nobodys-happy-world-tour/
+- Sex Pistols Steve Jones Paul Cook Glen Matlock Feat Frank Carter — https://impconcerts.com/event/sex-pistols-steve-jones-paul-cook-glen-matlock-feat-frank-carter/
+- Shaboozey Outlaws Never Die Tour — https://impconcerts.com/event/shaboozey-outlaws-never-die-tour/
+- She Wants Revenge — https://impconcerts.com/event/she-wants-revenge/
+- Sienna Spiro My House Tour — https://impconcerts.com/event/sienna-spiro-my-house-tour/
+- Slift — https://impconcerts.com/event/slift/
+- Slow Pulp — https://impconcerts.com/event/slow-pulp/
+- Sofi Tukker Presents Animal Talk — https://impconcerts.com/event/sofi-tukker-presents-animal-talk/
+- Stella Lefty Lefty Live — https://impconcerts.com/event/stella-lefty-lefty-live/
+- Strawberry Guy — https://impconcerts.com/event/strawberry-guy/
+- Sub Urban The Bell Tolls Tour — https://impconcerts.com/event/sub-urban-the-bell-tolls-tour/
+- Sugar — https://impconcerts.com/event/sugar/
+- Sylvan Esso 2 — https://impconcerts.com/event/sylvan-esso-2/
+- Syml — https://impconcerts.com/event/syml/
+- Temples The Bliss Tour — https://impconcerts.com/event/temples-the-bliss-tour/
+- The Airborne Toxic Event The Way Home 20 Year Anniversary Tour — https://impconcerts.com/event/the-airborne-toxic-event-the-way-home-20-year-anniversary-tour/
+- The Army The Navy The Fake Brave Tour 2026 — https://impconcerts.com/event/the-army-the-navy-the-fake-brave-tour-2026/
+- The California Honeydrops Sweet Like That Tour 2026 — https://impconcerts.com/event/the-california-honeydrops-sweet-like-that-tour-2026/
+- The Chicks Taking The Long Way — https://impconcerts.com/event/the-chicks-taking-the-long-way/
+- The Damned Final Damnation 50 — https://impconcerts.com/event/the-damned-final-damnation-50/
+- The Format — https://impconcerts.com/event/the-format/
+- The Mountain Grass Unit Appalachian Smoke Tour — https://impconcerts.com/event/the-mountain-grass-unit-appalachian-smoke-tour/
+- The Rocky Horror Picture Show — https://impconcerts.com/event/the-rocky-horror-picture-show/
+- The Tallest Man On Earth — https://impconcerts.com/event/the-tallest-man-on-earth/
+- Theo Katzman — https://impconcerts.com/event/theo-katzman/
+- They Might Be Giants — https://impconcerts.com/event/they-might-be-giants/
+- They Might Be Giants 2 — https://impconcerts.com/event/they-might-be-giants-2/
+- They Might Be Giants 3 — https://impconcerts.com/event/they-might-be-giants-3/
+- They Might Be Giants 4 — https://impconcerts.com/event/they-might-be-giants-4/
+- They Might Be Giants Four Night Pass — https://impconcerts.com/event/they-might-be-giants-four-night-pass/
+- They Might Be Giants Two Night Pass — https://impconcerts.com/event/they-might-be-giants-two-night-pass/
+- They Might Be Giants Two Night Pass 11 21 11 22 — https://impconcerts.com/event/they-might-be-giants-two-night-pass-11-21-11-22/
+- This Is Lorelei — https://impconcerts.com/event/this-is-lorelei/
+- Tokyo Tea Room Feel Forever Tour — https://impconcerts.com/event/tokyo-tea-room-feel-forever-tour/
+- Towa Bird The Gentleman Tour — https://impconcerts.com/event/towa-bird-the-gentleman-tour/
+- Tricky — https://impconcerts.com/event/tricky/
+- Two Door Cinema Club Tourist History 15Th Anniversary Tour — https://impconcerts.com/event/two-door-cinema-club-tourist-history-15th-anniversary-tour/
+- Undertale The Determination Symphony World Tour — https://impconcerts.com/event/undertale-the-determination-symphony-world-tour/
+- Undertale The Determination Symphony World Tour 2 — https://impconcerts.com/event/undertale-the-determination-symphony-world-tour-2/
+- Virginia Coalition — https://impconcerts.com/event/virginia-coalition/
+- Vitamin String Quartet Girl Named Tom — https://impconcerts.com/event/vitamin-string-quartet-girl-named-tom/
+- Wave To Earth The Pieces Tour — https://impconcerts.com/event/wave-to-earth-the-pieces-tour/
+- Waylon Wyatt Dustpiles World Tour — https://impconcerts.com/event/waylon-wyatt-dustpiles-world-tour/
+- West 22Nd Places To Be — https://impconcerts.com/event/west-22nd-places-to-be/
+- Winyah — https://impconcerts.com/event/winyah/
+- Wishy — https://impconcerts.com/event/wishy/
+- Zarna Garg — https://impconcerts.com/event/zarna-garg/
+
+**Union Stage Presents**
+- An Evening With Ira Glass — https://www.unionstagepresents.com/shows/an-evening-with-ira-glass-11-jul
+- Bachelor Boys Band — https://www.unionstagepresents.com/shows/bachelor-boys-band-13-jul
+- Band Battle 31 Prelim 4 — https://www.unionstagepresents.com/shows/band-battle-31-prelim-4-12-jul
+- Bleach 30 Year Anniversary W Special Guests — https://www.unionstagepresents.com/shows/bleach-30-year-anniversary-w-special-guests-16-jul
+- Bleach 30 Year Anniversary W Special Guests — https://www.unionstagepresents.com/shows/bleach-30-year-anniversary-w-special-guests-22-may
+- Chris Mitchell Begging For Sax Tour — https://www.unionstagepresents.com/shows/chris-mitchell-begging-for-sax-tour-17-jul
+- Dc Moth Storyslam Revenge — https://www.unionstagepresents.com/shows/dc-moth-storyslam-revenge-13-jul
+- Freestyle Dansfit A Unique Dance Fitness Experience At The Wharf — https://www.unionstagepresents.com/shows/freestyle-dansfit-a-unique-dance-fitness-experience-at-the-wharf-12-jul
+- Generacion Suicida — https://www.unionstagepresents.com/shows/generacion-suicida-16-jul
+- Gus Heagerty Live Is This The New Me — https://www.unionstagepresents.com/shows/gus-heagerty-live-is-this-the-new-me-14-jul
+- India Shawn Presents Subject To Change — https://www.unionstagepresents.com/shows/india-shawn-presents-subject-to-change-14-jul
+- Jivebomb — https://www.unionstagepresents.com/shows/jivebomb-12-jul
+- John K — https://www.unionstagepresents.com/shows/john-k-14-jul
+- Mack Keane The Wide Eyed Tour — https://www.unionstagepresents.com/shows/mack-keane-the-wide-eyed-tour-11-jul
+- Npr Presents Tiny Desk Contest On The Road 2026 — https://www.unionstagepresents.com/shows/npr-presents-tiny-desk-contest-on-the-road-2026-11-jul
+- Party Iconic Presents Off Campus — https://www.unionstagepresents.com/shows/party-iconic-presents-off-campus-11-jul
+- Samantha Crain — https://www.unionstagepresents.com/shows/samantha-crain-16-jul
+- Satisfaction 2010 2017 Edm Bangers All Night Long — https://www.unionstagepresents.com/shows/satisfaction-2010-2017-edm-bangers-all-night-long-11-jul
+- Souled Out Dates Juneteenth Block Party — https://www.unionstagepresents.com/shows/souled-out-dates-juneteenth-block-party-19-jun
+- Spice Girls Party — https://www.unionstagepresents.com/shows/spice-girls-party-15-jul
+- The Dimeslots Friends Family Event — https://www.unionstagepresents.com/shows/the-dimeslots-friends-family-event-11-jul
+- Tobacco Road Morrissey Blvd — https://www.unionstagepresents.com/shows/tobacco-road-morrissey-blvd-16-jul
+- Trae Sheehan Tom Hampton — https://www.unionstagepresents.com/shows/trae-sheehan-tom-hampton-15-jul
+- Wilbr With Liam Keen And Lori Grigsby — https://www.unionstagepresents.com/shows/wilbr-with-liam-keen-and-lori-grigsby-07-jul
+- Wu Lyf 17 Jul Ss6G2 — https://www.unionstagepresents.com/shows/wu-lyf-17-jul-ss6g2
+
+**Songbyrd Music House**
+- 76Th Street — https://songbyrddc.com/event/76th-street/
+- Aaron Lee Tasjan — https://songbyrddc.com/event/aaron-lee-tasjan/
+- Abby Holliday Charli Adams — https://songbyrddc.com/event/abby-holliday-charli-adams/
+- Alex Lahey 2 — https://songbyrddc.com/event/alex-lahey-2/
+- Ali — https://songbyrddc.com/event/ali/
+- Amelia Day — https://songbyrddc.com/event/amelia-day/
+- Anaiis — https://songbyrddc.com/event/anaiis/
+- Anna Von Hausswolff — https://songbyrddc.com/event/anna-von-hausswolff/
+- April Vista Fly On The Wall Tour Summer 2026 — https://songbyrddc.com/event/april-vista-fly-on-the-wall-tour-summer-2026/
+- Ashes At Last — https://songbyrddc.com/event/ashes-at-last/
+- Bandits On The Run — https://songbyrddc.com/event/bandits-on-the-run/
+- Bermuda Search Party Atlantic Adieu Tour — https://songbyrddc.com/event/bermuda-search-party-atlantic-adieu-tour/
+- Big D The Kids Table — https://songbyrddc.com/event/big-d-the-kids-table/
+- Bird And Byron — https://songbyrddc.com/event/bird-and-byron/
+- Brown Horse — https://songbyrddc.com/event/brown-horse/
+- Cardinals — https://songbyrddc.com/event/cardinals/
+- Cola 2 — https://songbyrddc.com/event/cola-2/
+- Dave Hause The Mermaid — https://songbyrddc.com/event/dave-hause-the-mermaid/
+- Day We Ran — https://songbyrddc.com/event/day-we-ran/
+- Death Lens — https://songbyrddc.com/event/death-lens/
+- Emm — https://songbyrddc.com/event/emm/
+- Fat Evil Children — https://songbyrddc.com/event/fat-evil-children/
+- Faux Real — https://songbyrddc.com/event/faux-real/
+- Ford Live Music Lights Color Tour — https://songbyrddc.com/event/ford-live-music-lights-color-tour/
+- Ghostly Kisses North America Tour 2026 — https://songbyrddc.com/event/ghostly-kisses-north-america-tour-2026/
+- Grotesqueries — https://songbyrddc.com/event/grotesqueries/
+- Honey Bxby — https://songbyrddc.com/event/honey-bxby/
+- Jejune W Ethel Meserve — https://songbyrddc.com/event/jejune-w-ethel-meserve/
+- Jessie Altman Record Release Show Benefit For Vla — https://songbyrddc.com/event/jessie-altman-record-release-show-benefit-for-vla/
+- John R Miller — https://songbyrddc.com/event/john-r-miller/
+- Lime Garden — https://songbyrddc.com/event/lime-garden/
+- Lip Critic — https://songbyrddc.com/event/lip-critic/
+- Mayonnaise — https://songbyrddc.com/event/mayonnaise/
+- Mikaela Davis 3 — https://songbyrddc.com/event/mikaela-davis-3/
+- Moondog Revival — https://songbyrddc.com/event/moondog-revival/
+- Natanya The Attitude Tour — https://songbyrddc.com/event/natanya-the-attitude-tour/
+- Pete Hayes The Contradictions — https://songbyrddc.com/event/pete-hayes-the-contradictions/
+- River Shook — https://songbyrddc.com/event/river-shook/
+- Robert Lester Folsom — https://songbyrddc.com/event/robert-lester-folsom/
+- Rome Streetz Sock It To My Pocket Tour — https://songbyrddc.com/event/rome-streetz-sock-it-to-my-pocket-tour/
+- Rugan Lewis — https://songbyrddc.com/event/rugan-lewis/
+- Saint Harison Presents The Ghosted Tour — https://songbyrddc.com/event/saint-harison-presents-the-ghosted-tour/
+- Sam Elmore The Ghosts — https://songbyrddc.com/event/sam-elmore-the-ghosts/
+- Shannon Shaw Band — https://songbyrddc.com/event/shannon-shaw-band/
+- Sloppy Jane — https://songbyrddc.com/event/sloppy-jane/
+- Starcleaner Reunion Tour For A Rainy Day — https://songbyrddc.com/event/starcleaner-reunion-tour-for-a-rainy-day/
+- Swapmeet — https://songbyrddc.com/event/swapmeet/
+- The Goons — https://songbyrddc.com/event/the-goons/
+- The Living Space Live Ft Funsho — https://songbyrddc.com/event/the-living-space-live-ft-funsho/
+- The Missing Peace X Blanket — https://songbyrddc.com/event/the-missing-peace-x-blanket/
+- The Timber Bridges — https://songbyrddc.com/event/the-timber-bridges/
+- Tim Atlas 2 — https://songbyrddc.com/event/tim-atlas-2/
+- Treway The Now Generation — https://songbyrddc.com/event/treway-the-now-generation/
+- Twenty Years Of We Are Scientists Celebrating The 20Th Anniversary Of With Love And Squalor — https://songbyrddc.com/event/twenty-years-of-we-are-scientists-celebrating-the-20th-anniversary-of-with-love-and-squalor/
+- Value Select — https://songbyrddc.com/event/value-select/
+- When Chai Met Toast — https://songbyrddc.com/event/when-chai-met-toast/
+
+---
