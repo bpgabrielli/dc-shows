@@ -4,6 +4,29 @@ Each run prepends newly-detected shows here. Most recent at top.
 
 ---
 
+## 2026-06-19 — 14 new show(s)
+
+**IMP (9:30 Club / Anthem / Lincoln / Merriweather)**
+- Role Model Presents Chuck On Tour — https://impconcerts.com/event/role-model-presents-chuck-on-tour/
+- Sleep North America 2026 — https://impconcerts.com/event/sleep-north-america-2026/
+
+**Union Stage Presents**
+- American Vanity — https://www.unionstagepresents.com/shows/american-vanity-19-jul
+- Augustana All The Stars And Boulevards 20Th Anniversary An Intimate Solo Performance Of The Album In Full — https://www.unionstagepresents.com/shows/augustana-all-the-stars-and-boulevards-20th-anniversary-an-intimate-solo-performance-of-the-album-in-full-18-jul
+- Back To The 90S 1991 Classic Albums 35Th Anniversary Show Featuring Tributes To Nirvana Red Hot Chili Peppers And Primus — https://www.unionstagepresents.com/shows/back-to-the-90s-1991-classic-albums-35th-anniversary-show-featuring-tributes-to-nirvana-red-hot-chili-peppers-and-primus-18-jul
+- Dc Dating Live Is Back With A Vengeance Hot Summer Of Love — https://www.unionstagepresents.com/shows/dc-dating-live-is-back-with-a-vengeance-hot-summer-of-love-18-jul
+- Freestyle Dansfit A Unique Dance Fitness Experience At The Wharf — https://www.unionstagepresents.com/shows/freestyle-dansfit-a-unique-dance-fitness-experience-at-the-wharf-19-jul
+- Fudge — https://www.unionstagepresents.com/shows/fudge-18-jul
+- Hudson River Line The Music Of Billy Joel — https://www.unionstagepresents.com/shows/hudson-river-line-the-music-of-billy-joel-17-jul
+- The Ries Brothers — https://www.unionstagepresents.com/shows/the-ries-brothers-18-jul
+- The9Ambanger Presents Rnb At 9Am — https://www.unionstagepresents.com/shows/the9ambanger-presents-rnb-at-9am-18-jul
+- Tiara Gemstones Presents Anime Rave — https://www.unionstagepresents.com/shows/tiara-gemstones-presents-anime-rave-17-jul
+
+**Songbyrd Music House**
+- Hana Stretton — https://songbyrddc.com/event/hana-stretton/
+- Patrick Budd — https://songbyrddc.com/event/patrick-budd/
+
+---
 ## 2026-06-17 — 229 new show(s)
 
 **Black Cat**
