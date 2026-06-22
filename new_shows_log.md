@@ -4,6 +4,44 @@ Each run prepends newly-detected shows here. Most recent at top.
 
 ---
 
+## 2026-06-22 — 27 new show(s)
+
+**Black Cat**
+- Jenny Cavallero — https://www.blackcatdc.com/shows/jenny-cavallero.html
+
+**IMP (9:30 Club / Anthem / Lincoln / Merriweather)**
+- Ravyn Lenae Presents Blue Island — https://impconcerts.com/event/ravyn-lenae-presents-blue-island/
+- Stanley Simmons — https://impconcerts.com/event/stanley-simmons/
+- Taste Of The South — https://impconcerts.com/event/taste-of-the-south/
+- Tiny Habits The Keepers Tour — https://impconcerts.com/event/tiny-habits-the-keepers-tour/
+
+**Union Stage Presents**
+- 1970 S Disco Inferno Ft Dj D — https://www.unionstagepresents.com/shows/1970-s-disco-inferno-ft-dj-d-24-jul
+- 2Slimey No Bass No Fun — https://www.unionstagepresents.com/shows/2slimey-no-bass-no-fun-19-jul
+- Argo The Violet Queens Virg — https://www.unionstagepresents.com/shows/argo-the-violet-queens-virg-20-jul
+- Babychiefdoit Presents The Rambo Tour — https://www.unionstagepresents.com/shows/babychiefdoit-presents-the-rambo-tour-22-jul
+- Dmv Takeover A Night Of Tunes With Chris App Coral Bank Hollow And Left Bench — https://www.unionstagepresents.com/shows/dmv-takeover-a-night-of-tunes-with-chris-app-coral-bank-hollow-and-left-bench-15-jul
+- Hard Reset Vol 1 Alice Gas Blackwinterwells Ft Hateoryx Down Special Fryenation — https://www.unionstagepresents.com/shows/hard-reset-vol-1-alice-gas-blackwinterwells-ft-hateoryx-down-special-fryenation-23-jul
+- Jacoozy — https://www.unionstagepresents.com/shows/jacoozy-21-jul
+- Juicy J Project Pat — https://www.unionstagepresents.com/shows/juicy-j-project-pat-24-jul
+- Kurt Vile And The Violators — https://www.unionstagepresents.com/shows/kurt-vile-and-the-violators-22-jul
+- Loud And Live Presents Clarent Usa Tour — https://www.unionstagepresents.com/shows/loud-and-live-presents-clarent-usa-tour-23-jul
+- Noah Kahan The Great Divide 2026 — https://www.unionstagepresents.com/shows/noah-kahan-the-great-divide-2026-22-jul
+- Puppeteers For Fears — https://www.unionstagepresents.com/shows/puppeteers-for-fears-24-jul
+- Rave Jesus — https://www.unionstagepresents.com/shows/rave-jesus-24-jul
+- Riley — https://www.unionstagepresents.com/shows/riley-20-jul
+- The Garrett Boys — https://www.unionstagepresents.com/shows/the-garrett-boys-23-jul
+- The Jury Experience 24 Jul F300D — https://www.unionstagepresents.com/shows/the-jury-experience-24-jul-f300d
+- The School Of Rock Allstars Tour — https://www.unionstagepresents.com/shows/the-school-of-rock-allstars-tour-21-jul
+- The Wildwoods — https://www.unionstagepresents.com/shows/the-wildwoods-19-jul
+
+**Songbyrd Music House**
+- Bucky Malone Rampage The Tour — https://songbyrddc.com/event/bucky-malone-rampage-the-tour/
+- The Wldlfe 2 — https://songbyrddc.com/event/the-wldlfe-2/
+- Tobi Lou Same Old Jeans Tour — https://songbyrddc.com/event/tobi-lou-same-old-jeans-tour/
+- Wild Pink 2 — https://songbyrddc.com/event/wild-pink-2/
+
+---
 ## 2026-06-19 — 14 new show(s)
 
 **IMP (9:30 Club / Anthem / Lincoln / Merriweather)**
