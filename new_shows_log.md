@@ -4,6 +4,50 @@ Each run prepends newly-detected shows here. Most recent at top.
 
 ---
 
+## 2026-06-24 — 33 new show(s)
+
+**Black Cat**
+- Drag Show — https://www.blackcatdc.com/shows/drag-show.html
+- Frog — https://www.blackcatdc.com/shows/frog.html
+- Heavens To Betsy — https://www.blackcatdc.com/shows/heavens-to-betsy.html
+- New Wave Drag Show — https://www.blackcatdc.com/shows/new-wave-drag-show.html
+- Starr And The Czars — https://www.blackcatdc.com/shows/starr-and-the-czars.html
+- Tender — https://www.blackcatdc.com/shows/tender.html
+- The Fool — https://www.blackcatdc.com/shows/the-fool.html
+- The Matches — https://www.blackcatdc.com/shows/the-matches.html
+
+**IMP (9:30 Club / Anthem / Lincoln / Merriweather)**
+- Asha Banks Something Inbetween Tour — https://impconcerts.com/event/asha-banks-something-inbetween-tour/
+- Automatic — https://impconcerts.com/event/automatic/
+- Bailen Swim At Your Own Risk Tour — https://impconcerts.com/event/bailen-swim-at-your-own-risk-tour/
+- Brandon Flowers — https://impconcerts.com/event/brandon-flowers/
+- Bright Eyes — https://impconcerts.com/event/bright-eyes/
+- Earlybirds Club 2 — https://impconcerts.com/event/earlybirds-club-2/
+- Earlybirds Club 3 — https://impconcerts.com/event/earlybirds-club-3/
+- Emmet Swimming Dillon Fence — https://impconcerts.com/event/emmet-swimming-dillon-fence/
+- Flashband Warped Tour Showcase — https://impconcerts.com/event/flashband-warped-tour-showcase/
+- Hovvdy — https://impconcerts.com/event/hovvdy/
+- Ilana Glazer Live — https://impconcerts.com/event/ilana-glazer-live/
+- Mike D 5D — https://impconcerts.com/event/mike-d-5d/
+- Patrick Droney — https://impconcerts.com/event/patrick-droney/
+- Sanctuary Park Tour Celebrating 40 Years Of The Jayhawks — https://impconcerts.com/event/sanctuary-park-tour-celebrating-40-years-of-the-jayhawks/
+- Squirrel Nut Zippers Christmas Caravan Tour — https://impconcerts.com/event/squirrel-nut-zippers-christmas-caravan-tour/
+- The Hails — https://impconcerts.com/event/the-hails/
+
+**Union Stage Presents**
+- Free Bluegrass And Cheap Beer Night With Blue Breeze — https://www.unionstagepresents.com/shows/free-bluegrass-and-cheap-beer-night-with-blue-breeze-04-jul
+- Free Bluegrass And Cheap Beer Night With Gravel Road — https://www.unionstagepresents.com/shows/free-bluegrass-and-cheap-beer-night-with-gravel-road-03-jul
+- House Of Heavy — https://www.unionstagepresents.com/shows/house-of-heavy-24-jul
+- The Jury Experience — https://www.unionstagepresents.com/shows/the-jury-experience-24-jul
+
+**Songbyrd Music House**
+- Jailen Josey The Serial Romantic Tour — https://songbyrddc.com/event/jailen-josey-the-serial-romantic-tour/
+- Kiefer — https://songbyrddc.com/event/kiefer/
+- The Exchange Project 2 — https://songbyrddc.com/event/the-exchange-project-2/
+- The Tubs — https://songbyrddc.com/event/the-tubs/
+- Void Phantom Empire Of Blood 2 Tour — https://songbyrddc.com/event/void-phantom-empire-of-blood-2-tour/
+
+---
 ## 2026-06-22 — 27 new show(s)
 
 **Black Cat**
