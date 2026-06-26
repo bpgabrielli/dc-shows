@@ -4,6 +4,25 @@ Each run prepends newly-detected shows here. Most recent at top.
 
 ---
 
+## 2026-06-26 — 10 new show(s)
+
+**IMP (9:30 Club / Anthem / Lincoln / Merriweather)**
+- Asha Banks Something Inbetween Tour 2 — https://impconcerts.com/event/asha-banks-something-inbetween-tour-2/
+- Beabadoobee The Powerlines Tour — https://impconcerts.com/event/beabadoobee-the-powerlines-tour/
+- Medium Build Presents The King Of Having Fun On Tour — https://impconcerts.com/event/medium-build-presents-the-king-of-having-fun-on-tour/
+- Romanceplanet — https://impconcerts.com/event/romanceplanet/
+
+**Union Stage Presents**
+- Comedians Roast Dc Tech Roast Show — https://www.unionstagepresents.com/shows/comedians-roast-dc-tech-roast-show-24-jul
+- Dayshift Party — https://www.unionstagepresents.com/shows/dayshift-party-25-jul
+- Postponed To 8 2 R2Bees — https://www.unionstagepresents.com/shows/postponed-to-8-2-r2bees-28-jun
+- Tag The Athletic Group An Experiential Wellness Event — https://www.unionstagepresents.com/shows/tag-the-athletic-group-an-experiential-wellness-event-25-jul
+
+**Songbyrd Music House**
+- Cardinal Bloom Burn The House Tour — https://songbyrddc.com/event/cardinal-bloom-burn-the-house-tour/
+- The No Headliners Tour — https://songbyrddc.com/event/the-no-headliners-tour/
+
+---
 ## 2026-06-24 — 33 new show(s)
 
 **Black Cat**
