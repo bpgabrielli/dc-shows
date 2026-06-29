@@ -4,6 +4,29 @@ Each run prepends newly-detected shows here. Most recent at top.
 
 ---
 
+## 2026-06-29 — 16 new show(s)
+
+**IMP (9:30 Club / Anthem / Lincoln / Merriweather)**
+- Fox N Vead Playing The Game Tour — https://impconcerts.com/event/fox-n-vead-playing-the-game-tour/
+
+**Union Stage Presents**
+- Arranged In April — https://www.unionstagepresents.com/shows/arranged-in-april-29-jul
+- Barstow Drive — https://www.unionstagepresents.com/shows/barstow-drive-27-jul
+- Belmont Performing 10 Years Of Between You And Me — https://www.unionstagepresents.com/shows/belmont-performing-10-years-of-between-you-and-me-30-jul
+- Birdcage — https://www.unionstagepresents.com/shows/birdcage-30-jul
+- Dang A Soulful Electronic Dance Night — https://www.unionstagepresents.com/shows/dang-a-soulful-electronic-dance-night-25-jul
+- David Cook — https://www.unionstagepresents.com/shows/david-cook-26-jul
+- David Ramirez — https://www.unionstagepresents.com/shows/david-ramirez-30-jul
+- Freestyle Dansfit A Unique Dance Fitness Experience At The Wharf — https://www.unionstagepresents.com/shows/freestyle-dansfit-a-unique-dance-fitness-experience-at-the-wharf-26-jul
+- Joseph Arthur — https://www.unionstagepresents.com/shows/joseph-arthur-29-jul
+- Mike Sherm — https://www.unionstagepresents.com/shows/mike-sherm-26-jul
+- Oliver Hazard — https://www.unionstagepresents.com/shows/oliver-hazard-28-jul
+- The Orange Slices And Fake Radio Double Album Release Show — https://www.unionstagepresents.com/shows/the-orange-slices-and-fake-radio-double-album-release-show-26-jul
+- Trailin Smoke — https://www.unionstagepresents.com/shows/trailin-smoke-25-jul
+- Us World Cup Watch Party The Tap Room — https://www.unionstagepresents.com/shows/us-world-cup-watch-party-the-tap-room-01-jul
+- Wax Monkey — https://www.unionstagepresents.com/shows/wax-monkey-25-jul
+
+---
 ## 2026-06-26 — 10 new show(s)
 
 **IMP (9:30 Club / Anthem / Lincoln / Merriweather)**
