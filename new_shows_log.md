@@ -4,6 +4,21 @@ Each run prepends newly-detected shows here. Most recent at top.
 
 ---
 
+## 2026-07-01 — 6 new show(s)
+
+**IMP (9:30 Club / Anthem / Lincoln / Merriweather)**
+- Josh Conway The Plum Tour — https://impconcerts.com/event/josh-conway-the-plum-tour/
+- White Ford Bronco Dcs All 90S Band — https://impconcerts.com/event/white-ford-bronco-dcs-all-90s-band/
+
+**Union Stage Presents**
+- Neighbor — https://www.unionstagepresents.com/shows/neighbor-31-jul
+- Souls Of Mischief — https://www.unionstagepresents.com/shows/souls-of-mischief-31-jul
+
+**Songbyrd Music House**
+- Res How I Do 25Th Anniversary Live — https://songbyrddc.com/event/res-how-i-do-25th-anniversary-live/
+- The Rb Club Discussed The Legacy Of Stax Records — https://songbyrddc.com/event/the-rb-club-discussed-the-legacy-of-stax-records/
+
+---
 ## 2026-06-29 — 16 new show(s)
 
 **IMP (9:30 Club / Anthem / Lincoln / Merriweather)**
