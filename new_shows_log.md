@@ -4,6 +4,16 @@ Each run prepends newly-detected shows here. Most recent at top.
 
 ---
 
+## 2026-07-03 — 5 new show(s)
+
+**Union Stage Presents**
+- Clay And Reecie Live Beyond The Mic — https://www.unionstagepresents.com/shows/clay-and-reecie-live-beyond-the-mic-01-aug
+- Colton Davies — https://www.unionstagepresents.com/shows/colton-davies-31-jul
+- Friendlyjordies Presents Alien Hunter — https://www.unionstagepresents.com/shows/friendlyjordies-presents-alien-hunter-31-jul
+- Julieta Venegas Nortena Tour 2026 — https://www.unionstagepresents.com/shows/julieta-venegas-nortena-tour-2026-31-jul
+- Soja With Very Special Guest Pigeons Playing Ping Pong — https://www.unionstagepresents.com/shows/soja-with-very-special-guest-pigeons-playing-ping-pong-01-aug
+
+---
 ## 2026-07-01 — 6 new show(s)
 
 **IMP (9:30 Club / Anthem / Lincoln / Merriweather)**
