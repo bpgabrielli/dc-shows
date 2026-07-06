@@ -4,6 +4,27 @@ Each run prepends newly-detected shows here. Most recent at top.
 
 ---
 
+## 2026-07-06 — 12 new show(s)
+
+**IMP (9:30 Club / Anthem / Lincoln / Merriweather)**
+- Bella Kay The Reckless Tour — https://impconcerts.com/event/bella-kay-the-reckless-tour/
+- Ringo Starr And His All Starr Band — https://impconcerts.com/event/ringo-starr-and-his-all-starr-band/
+- Sophie Truax — https://impconcerts.com/event/sophie-truax/
+
+**Union Stage Presents**
+- Cordovas — https://www.unionstagepresents.com/shows/cordovas-02-aug
+- Dwllrs One Of Those Nights Tour — https://www.unionstagepresents.com/shows/dwllrs-one-of-those-nights-tour-01-aug
+- Freestyle Dansfit A Unique Dance Fitness Experience At The Wharf — https://www.unionstagepresents.com/shows/freestyle-dansfit-a-unique-dance-fitness-experience-at-the-wharf-02-aug
+- Holy Wave — https://www.unionstagepresents.com/shows/holy-wave-04-aug
+- Innlet — https://www.unionstagepresents.com/shows/innlet-02-aug
+- Luh Tyler Destined For Greatness Tour — https://www.unionstagepresents.com/shows/luh-tyler-destined-for-greatness-tour-02-aug
+- Papercut A Tribute To Linkin Park — https://www.unionstagepresents.com/shows/papercut-a-tribute-to-linkin-park-01-aug
+- Zoh Amba — https://www.unionstagepresents.com/shows/zoh-amba-01-aug
+
+**Songbyrd Music House**
+- Jackie Evans — https://songbyrddc.com/event/jackie-evans/
+
+---
 ## 2026-07-03 — 5 new show(s)
 
 **Union Stage Presents**
