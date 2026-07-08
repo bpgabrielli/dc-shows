@@ -4,6 +4,33 @@ Each run prepends newly-detected shows here. Most recent at top.
 
 ---
 
+## 2026-07-08 — 16 new show(s)
+
+**Black Cat**
+- Deerhoof — https://www.blackcatdc.com/shows/deerhoof.html
+- Ho99O9 — https://www.blackcatdc.com/shows/ho99o9.html
+- King Mala — https://www.blackcatdc.com/shows/king-mala.html
+- Nino Paid — https://www.blackcatdc.com/shows/nino-paid.html
+- Protomartyr — https://www.blackcatdc.com/shows/protomartyr.html
+- Velvet Divide — https://www.blackcatdc.com/shows/velvet-divide.html
+
+**IMP (9:30 Club / Anthem / Lincoln / Merriweather)**
+- Freak Slug — https://impconcerts.com/event/freak-slug/
+- Hot In Herre 2000S Dance Party — https://impconcerts.com/event/hot-in-herre-2000s-dance-party/
+- Ken Carson Xperimenting Tour — https://impconcerts.com/event/ken-carson-xperimenting-tour/
+- Stephen Dawes Presents The Skin To Skin Tour — https://impconcerts.com/event/stephen-dawes-presents-the-skin-to-skin-tour/
+
+**Union Stage Presents**
+- Bonnie Stewart And Maddie Lenhart With Special Guest Daron Tapscott — https://www.unionstagepresents.com/shows/bonnie-stewart-and-maddie-lenhart-with-special-guest-daron-tapscott-05-aug
+- Dc Moth Storyslam Schooled — https://www.unionstagepresents.com/shows/dc-moth-storyslam-schooled-06-aug
+- Tabitha Meeks — https://www.unionstagepresents.com/shows/tabitha-meeks-04-aug
+- The Barons The Jellies — https://www.unionstagepresents.com/shows/the-barons-the-jellies-06-aug
+
+**Songbyrd Music House**
+- Joey Cash — https://songbyrddc.com/event/joey-cash/
+- We Ani Burn That Bridge Tour — https://songbyrddc.com/event/we-ani-burn-that-bridge-tour/
+
+---
 ## 2026-07-06 — 12 new show(s)
 
 **IMP (9:30 Club / Anthem / Lincoln / Merriweather)**
