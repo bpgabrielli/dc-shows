@@ -4,6 +4,31 @@ Each run prepends newly-detected shows here. Most recent at top.
 
 ---
 
+## 2026-07-10 — 14 new show(s)
+
+**Black Cat**
+- Weedeater — https://www.blackcatdc.com/shows/weedeater.html
+
+**IMP (9:30 Club / Anthem / Lincoln / Merriweather)**
+- 50Th Anniversary Of Go Go Celebration — https://impconcerts.com/event/50th-anniversary-of-go-go-celebration/
+
+**Union Stage Presents**
+- Hot Like Mars — https://www.unionstagepresents.com/shows/hot-like-mars-07-aug
+- Kaigaim S An Idolm Ster Tribute Live — https://www.unionstagepresents.com/shows/kaigaim-s-an-idolm-ster-tribute-live-07-aug
+- Last Friday Night Y2K 2010 S Throwbacks All Night Long — https://www.unionstagepresents.com/shows/last-friday-night-y2k-2010-s-throwbacks-all-night-long-07-aug
+- Nite — https://www.unionstagepresents.com/shows/nite-06-aug
+- Sunny Rave — https://www.unionstagepresents.com/shows/sunny-rave-07-aug
+- The Click Five For Lovers Tour — https://www.unionstagepresents.com/shows/the-click-five-for-lovers-tour-07-aug
+- The Steepwater Band — https://www.unionstagepresents.com/shows/the-steepwater-band-06-aug
+
+**Songbyrd Music House**
+- Shaolin Jazz Can I Kick It Ft Point Break — https://songbyrddc.com/event/shaolin-jazz-can-i-kick-it-ft-point-break/
+- Songbyrd Music Trivia Night 20 — https://songbyrddc.com/event/songbyrd-music-trivia-night-20/
+- Timalikesmusic Presetns Buga Suga A Classic Rb Party — https://songbyrddc.com/event/timalikesmusic-presetns-buga-suga-a-classic-rb-party/
+- Time In The Wilderness — https://songbyrddc.com/event/time-in-the-wilderness/
+- You Fool Single Release Show — https://songbyrddc.com/event/you-fool-single-release-show/
+
+---
 ## 2026-07-08 — 16 new show(s)
 
 **Black Cat**
