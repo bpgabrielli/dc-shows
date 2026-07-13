@@ -4,6 +4,36 @@ Each run prepends newly-detected shows here. Most recent at top.
 
 ---
 
+## 2026-07-13 — 19 new show(s)
+
+**Black Cat**
+- Mortified Valentines — https://www.blackcatdc.com/shows/mortified-valentines.html
+
+**IMP (9:30 Club / Anthem / Lincoln / Merriweather)**
+- Ingrid Andress Nowhere Else To Go Tour — https://impconcerts.com/event/ingrid-andress-nowhere-else-to-go-tour/
+- Juice — https://impconcerts.com/event/juice/
+- Knox — https://impconcerts.com/event/knox/
+- Nate Sib Reborn Tour — https://impconcerts.com/event/nate-sib-reborn-tour/
+- Ysl Records Young Thug Presents The New Generation Tour — https://impconcerts.com/event/ysl-records-young-thug-presents-the-new-generation-tour/
+
+**Union Stage Presents**
+- Anna Moss — https://www.unionstagepresents.com/shows/anna-moss-08-aug
+- Army Day Out A K Pop Fan Celebration — https://www.unionstagepresents.com/shows/army-day-out-a-k-pop-fan-celebration-09-aug
+- Damon R — https://www.unionstagepresents.com/shows/damon-r-03-aug
+- Freestyle Dansfit A Unique Dance Fitness Experience At The Wharf — https://www.unionstagepresents.com/shows/freestyle-dansfit-a-unique-dance-fitness-experience-at-the-wharf-09-aug
+- Gannon Fremin Ccrev Hello Hate To See You Tour — https://www.unionstagepresents.com/shows/gannon-fremin-ccrev-hello-hate-to-see-you-tour-08-aug
+- Jovi Greene — https://www.unionstagepresents.com/shows/jovi-greene-12-aug
+- Noname 10Yr Anniversary Of Telefone — https://www.unionstagepresents.com/shows/noname-10yr-anniversary-of-telefone-09-aug
+- Sam Taggart So Pretty Much I M Touring — https://www.unionstagepresents.com/shows/sam-taggart-so-pretty-much-i-m-touring-11-aug
+- Slow Joy — https://www.unionstagepresents.com/shows/slow-joy-09-aug
+- The Philharmonik And Wyatt Waddell — https://www.unionstagepresents.com/shows/the-philharmonik-and-wyatt-waddell-10-aug
+- White Ford Bronco Dc S All 90S Band — https://www.unionstagepresents.com/shows/white-ford-bronco-dc-s-all-90s-band-08-aug
+
+**Songbyrd Music House**
+- Angela Autumn — https://songbyrddc.com/event/angela-autumn/
+- Res How I Do 25Th Anniversary Live Night 1 — https://songbyrddc.com/event/res-how-i-do-25th-anniversary-live-night-1/
+
+---
 ## 2026-07-10 — 14 new show(s)
 
 **Black Cat**
