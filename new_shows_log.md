@@ -4,6 +4,39 @@ Each run prepends newly-detected shows here. Most recent at top.
 
 ---
 
+## 2026-07-15 — 22 new show(s)
+
+**Black Cat**
+- Cain Culto — https://www.blackcatdc.com/shows/cain-culto.html
+- Charlotte Cornfield — https://www.blackcatdc.com/shows/charlotte-cornfield.html
+- Miniature Tigers — https://www.blackcatdc.com/shows/miniature-tigers.html
+
+**IMP (9:30 Club / Anthem / Lincoln / Merriweather)**
+- Adam Grant Vibe — https://impconcerts.com/event/adam-grant-vibe/
+- Dont Stop Believing An 80S Prom Experience — https://impconcerts.com/event/dont-stop-believing-an-80s-prom-experience/
+- Hudson Westbrook — https://impconcerts.com/event/hudson-westbrook/
+- Lucinda Williams And Her Band — https://impconcerts.com/event/lucinda-williams-and-her-band/
+- Lucinda Williams And Her Band 2 — https://impconcerts.com/event/lucinda-williams-and-her-band-2/
+- Porch Light Hush Tour — https://impconcerts.com/event/porch-light-hush-tour/
+- Sueco — https://impconcerts.com/event/sueco/
+- The Beltway Brawl Vii — https://impconcerts.com/event/the-beltway-brawl-vii/
+- The Residents Eskimo Live — https://impconcerts.com/event/the-residents-eskimo-live/
+- The Taylor Party Taylor Swift Night — https://impconcerts.com/event/the-taylor-party-taylor-swift-night/
+
+**Union Stage Presents**
+- Age Of Ruin — https://www.unionstagepresents.com/shows/age-of-ruin-14-aug
+- Ainae — https://www.unionstagepresents.com/shows/ainae-13-aug
+- Elevate Show — https://www.unionstagepresents.com/shows/elevate-show-09-aug
+- Faouzia The Film Noir Tour — https://www.unionstagepresents.com/shows/faouzia-the-film-noir-tour-14-aug
+- Raphael Ghanem Apresenta A Carne So Cai No Prato Do Vegano — https://www.unionstagepresents.com/shows/raphael-ghanem-apresenta-a-carne-so-cai-no-prato-do-vegano-14-aug
+- The Jerrymanders — https://www.unionstagepresents.com/shows/the-jerrymanders-14-aug
+
+**Songbyrd Music House**
+- Antagonizor — https://songbyrddc.com/event/antagonizor/
+- Hit Shuffle A Live Show By Kontra Ft Father Sokka T A T — https://songbyrddc.com/event/hit-shuffle-a-live-show-by-kontra-ft-father-sokka-t-a-t/
+- Jessica Lea Mayfield 2 — https://songbyrddc.com/event/jessica-lea-mayfield-2/
+
+---
 ## 2026-07-13 — 19 new show(s)
 
 **Black Cat**
