@@ -4,6 +4,23 @@ Each run prepends newly-detected shows here. Most recent at top.
 
 ---
 
+## 2026-07-17 — 10 new show(s)
+
+**IMP (9:30 Club / Anthem / Lincoln / Merriweather)**
+- Jerry Seinfeld 2 — https://impconcerts.com/event/jerry-seinfeld-2/
+- Ke Huy Quan Never Say Die — https://impconcerts.com/event/ke-huy-quan-never-say-die/
+- Malcolm Gladwell The American Way Of Killing — https://impconcerts.com/event/malcolm-gladwell-the-american-way-of-killing/
+
+**Union Stage Presents**
+- Bingo Loco — https://www.unionstagepresents.com/shows/bingo-loco-15-aug
+- Homecoming Featuring Gordon Sterling The People And Isaac Hadden W Soundwaves — https://www.unionstagepresents.com/shows/homecoming-featuring-gordon-sterling-the-people-and-isaac-hadden-w-soundwaves-15-aug
+- Perreo Electrico — https://www.unionstagepresents.com/shows/perreo-electrico-14-aug
+- Po Up Live Game Show One Year Anniversary Celebration — https://www.unionstagepresents.com/shows/po-up-live-game-show-one-year-anniversary-celebration-12-aug
+- Spike Nu Expensive Parting Gifts Live At Pearl Street — https://www.unionstagepresents.com/shows/spike-nu-expensive-parting-gifts-live-at-pearl-street-15-aug
+- That Handsome Devil — https://www.unionstagepresents.com/shows/that-handsome-devil-15-aug
+- Vonoff1700 — https://www.unionstagepresents.com/shows/vonoff1700-12-aug
+
+---
 ## 2026-07-15 — 22 new show(s)
 
 **Black Cat**
