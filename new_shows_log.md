@@ -4,6 +4,35 @@ Each run prepends newly-detected shows here. Most recent at top.
 
 ---
 
+## 2026-07-20 — 20 new show(s)
+
+**IMP (9:30 Club / Anthem / Lincoln / Merriweather)**
+- Jessica Kirson — https://impconcerts.com/event/jessica-kirson/
+- Rebecca Black Exhibitionism On Tour — https://impconcerts.com/event/rebecca-black-exhibitionism-on-tour/
+
+**Union Stage Presents**
+- Alena Ciera — https://www.unionstagepresents.com/shows/alena-ciera-19-aug
+- American Aquarium — https://www.unionstagepresents.com/shows/american-aquarium-16-aug
+- Binchtopia The Shake Up Your Life Tour — https://www.unionstagepresents.com/shows/binchtopia-the-shake-up-your-life-tour-17-aug
+- Bingo Loco 15 Aug 78434 — https://www.unionstagepresents.com/shows/bingo-loco-15-aug-78434
+- Blue Water Highway — https://www.unionstagepresents.com/shows/blue-water-highway-19-aug
+- Capital Rats The Darelyns Ari Voxx — https://www.unionstagepresents.com/shows/capital-rats-the-darelyns-ari-voxx-20-aug
+- Destiny S Child Iconic Reimagined Tribute Washington Dc — https://www.unionstagepresents.com/shows/destiny-s-child-iconic-reimagined-tribute-washington-dc-16-aug
+- Destiny S Child Iconic Reimagined Tribute Washington Dc 16 Aug D4A0A — https://www.unionstagepresents.com/shows/destiny-s-child-iconic-reimagined-tribute-washington-dc-16-aug-d4a0a
+- Jason Aldean Luke Bryan Double Down Tour — https://www.unionstagepresents.com/shows/jason-aldean-luke-bryan-double-down-tour-20-aug
+- Jason Schmidt — https://www.unionstagepresents.com/shows/jason-schmidt-08-apr
+- Jay Yoder — https://www.unionstagepresents.com/shows/jay-yoder-16-aug
+- Jesse James Deconto The Pinkerton Raid — https://www.unionstagepresents.com/shows/jesse-james-deconto-the-pinkerton-raid-20-aug
+- Josh Tatofi — https://www.unionstagepresents.com/shows/josh-tatofi-15-aug
+- Kill Bill The Rapper I Found The End Tour — https://www.unionstagepresents.com/shows/kill-bill-the-rapper-i-found-the-end-tour-16-aug
+- Luke Borchelt — https://www.unionstagepresents.com/shows/luke-borchelt-18-aug
+- My Chemical Romance The Black Parade 2026 — https://www.unionstagepresents.com/shows/my-chemical-romance-the-black-parade-2026-18-aug
+- Spiked Punch — https://www.unionstagepresents.com/shows/spiked-punch-13-aug
+
+**Songbyrd Music House**
+- Res How I Do 25Th Anniversary Live Sunday Finale — https://songbyrddc.com/event/res-how-i-do-25th-anniversary-live-sunday-finale/
+
+---
 ## 2026-07-17 — 10 new show(s)
 
 **IMP (9:30 Club / Anthem / Lincoln / Merriweather)**
