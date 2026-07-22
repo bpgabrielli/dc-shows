@@ -4,6 +4,27 @@ Each run prepends newly-detected shows here. Most recent at top.
 
 ---
 
+## 2026-07-22 — 12 new show(s)
+
+**Black Cat**
+- Emma Ruth Rundle — https://www.blackcatdc.com/shows/emma-ruth-rundle.html
+
+**IMP (9:30 Club / Anthem / Lincoln / Merriweather)**
+- A Charlie Brown Christmas Live On Stage — https://impconcerts.com/event/a-charlie-brown-christmas-live-on-stage/
+- After — https://impconcerts.com/event/after/
+- Billy Bob Thornton The Boxmasters 2026 Morro Rock Tour 2 — https://impconcerts.com/event/billy-bob-thornton-the-boxmasters-2026-morro-rock-tour-2/
+- Billy Bob Thornton The Boxmasters 2026 Morro Rock Tour Moved To The Atlantis — https://impconcerts.com/event/billy-bob-thornton-the-boxmasters-2026-morro-rock-tour-moved-to-the-atlantis/
+- Greg Freeman — https://impconcerts.com/event/greg-freeman/
+- Patti Smith Quartet — https://impconcerts.com/event/patti-smith-quartet/
+- Shaun Cassidy Unwrapped Songs Stories For The Holidays — https://impconcerts.com/event/shaun-cassidy-unwrapped-songs-stories-for-the-holidays/
+
+**Union Stage Presents**
+- Freestyle Dansfit — https://www.unionstagepresents.com/shows/freestyle-dansfit-02-aug
+- Freestyle Dansfit — https://www.unionstagepresents.com/shows/freestyle-dansfit-09-aug
+- Freestyle Dansfit — https://www.unionstagepresents.com/shows/freestyle-dansfit-16-aug
+- Specialists — https://www.unionstagepresents.com/shows/specialists-21-aug
+
+---
 ## 2026-07-20 — 20 new show(s)
 
 **IMP (9:30 Club / Anthem / Lincoln / Merriweather)**
