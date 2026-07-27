@@ -4,6 +4,45 @@ Each run prepends newly-detected shows here. Most recent at top.
 
 ---
 
+## 2026-07-27 — 30 new show(s)
+
+**IMP (9:30 Club / Anthem / Lincoln / Merriweather)**
+- Quadeca — https://impconcerts.com/event/quadeca/
+- Tyla — https://impconcerts.com/event/tyla/
+- Vansire — https://impconcerts.com/event/vansire/
+
+**Union Stage Presents**
+- Band Battle 31 Finals — https://www.unionstagepresents.com/shows/band-battle-31-finals-22-aug
+- Black Masala The Last Rewind — https://www.unionstagepresents.com/shows/black-masala-the-last-rewind-21-aug
+- Blacktop Mojo — https://www.unionstagepresents.com/shows/blacktop-mojo-27-aug
+- Chatham County Line — https://www.unionstagepresents.com/shows/chatham-county-line-27-aug
+- Dess Dior — https://www.unionstagepresents.com/shows/dess-dior-07-jun
+- Fattmack The Mckenzie Tour 2 0 — https://www.unionstagepresents.com/shows/fattmack-the-mckenzie-tour-2-0-23-aug
+- Flowerbomb Homecoming Show — https://www.unionstagepresents.com/shows/flowerbomb-homecoming-show-22-aug
+- Freestyle Dansfit — https://www.unionstagepresents.com/shows/freestyle-dansfit-08-aug
+- Freestyle Dansfit — https://www.unionstagepresents.com/shows/freestyle-dansfit-15-aug
+- Georgia Parker — https://www.unionstagepresents.com/shows/georgia-parker-26-aug
+- Golden Era Rave 2010 S Edm Classics — https://www.unionstagepresents.com/shows/golden-era-rave-2010-s-edm-classics-21-aug
+- Great Northern Out Of Dc A Tribute To The Greatful Dead — https://www.unionstagepresents.com/shows/great-northern-out-of-dc-a-tribute-to-the-greatful-dead-28-aug
+- Hue — https://www.unionstagepresents.com/shows/hue-22-aug
+- Jack Leon — https://www.unionstagepresents.com/shows/jack-leon-21-aug
+- Latino Landia — https://www.unionstagepresents.com/shows/latino-landia-21-aug
+- Mike Stanley — https://www.unionstagepresents.com/shows/mike-stanley-23-aug
+- Mustard Service — https://www.unionstagepresents.com/shows/mustard-service-27-aug
+- Perfect Person Live The Grey Area Tour — https://www.unionstagepresents.com/shows/perfect-person-live-the-grey-area-tour-26-aug
+- Promiscuous A 2000 S Club Bangers Throwbacks Party — https://www.unionstagepresents.com/shows/promiscuous-a-2000-s-club-bangers-throwbacks-party-22-aug
+- Sounds Of The District — https://www.unionstagepresents.com/shows/sounds-of-the-district-23-aug
+- Tequilatlk Live — https://www.unionstagepresents.com/shows/tequilatlk-live-21-aug
+- The 1 Urban Stage Play Man Of The House — https://www.unionstagepresents.com/shows/the-1-urban-stage-play-man-of-the-house-22-aug
+- The 1 Urban Stage Play Man Of The House 22 Aug Db82A — https://www.unionstagepresents.com/shows/the-1-urban-stage-play-man-of-the-house-22-aug-db82a
+- The Wharf Rats Live Endless Summer Jam — https://www.unionstagepresents.com/shows/the-wharf-rats-live-endless-summer-jam-23-aug
+- Therapy Gecko — https://www.unionstagepresents.com/shows/therapy-gecko-27-aug
+- Will Wood — https://www.unionstagepresents.com/shows/will-wood-23-aug
+
+**Songbyrd Music House**
+- Renny Conti Split Second Tour — https://songbyrddc.com/event/renny-conti-split-second-tour/
+
+---
 ## 2026-07-22 — 12 new show(s)
 
 **Black Cat**
