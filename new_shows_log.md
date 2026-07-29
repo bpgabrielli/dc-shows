@@ -4,6 +4,22 @@ Each run prepends newly-detected shows here. Most recent at top.
 
 ---
 
+## 2026-07-29 — 7 new show(s)
+
+**IMP (9:30 Club / Anthem / Lincoln / Merriweather)**
+- Dark Star Orchestra Celebrating 45 Years Of Reckoning — https://impconcerts.com/event/dark-star-orchestra-celebrating-45-years-of-reckoning/
+- Earlybirds Club 4 — https://impconcerts.com/event/earlybirds-club-4/
+
+**Union Stage Presents**
+- Bop To The Top — https://www.unionstagepresents.com/shows/bop-to-the-top-28-aug
+- Chxrry The U Me My Ego Tour — https://www.unionstagepresents.com/shows/chxrry-the-u-me-my-ego-tour-28-aug
+
+**Songbyrd Music House**
+- Guerilla Toss — https://songbyrddc.com/event/guerilla-toss/
+- Spoonfed Ep Release Show — https://songbyrddc.com/event/spoonfed-ep-release-show/
+- Zack Keim X Gardener — https://songbyrddc.com/event/zack-keim-x-gardener/
+
+---
 ## 2026-07-27 — 30 new show(s)
 
 **IMP (9:30 Club / Anthem / Lincoln / Merriweather)**
