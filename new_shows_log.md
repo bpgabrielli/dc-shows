@@ -4,6 +4,35 @@ Each run prepends newly-detected shows here. Most recent at top.
 
 ---
 
+## 2026-07-31 — 18 new show(s)
+
+**Black Cat**
+- Eighties — https://www.blackcatdc.com/shows/eighties.html
+- George Clanton — https://www.blackcatdc.com/shows/george-clanton.html
+- Hump — https://www.blackcatdc.com/shows/hump.html
+- Hump2 — https://www.blackcatdc.com/shows/hump2.html
+
+**IMP (9:30 Club / Anthem / Lincoln / Merriweather)**
+- Michelle Wolf Best Job In The World 2 — https://impconcerts.com/event/michelle-wolf-best-job-in-the-world-2/
+- V Street Market — https://impconcerts.com/event/v-street-market/
+
+**Union Stage Presents**
+- A Thousand Horses — https://www.unionstagepresents.com/shows/a-thousand-horses-29-aug
+- Arlo Parks Desire Tour — https://www.unionstagepresents.com/shows/arlo-parks-desire-tour-29-aug
+- Broadway Rave — https://www.unionstagepresents.com/shows/broadway-rave-29-aug
+- Freestyle Dansfit — https://www.unionstagepresents.com/shows/freestyle-dansfit-29-aug
+- Kontrolled Khaos Band Outside All Summer — https://www.unionstagepresents.com/shows/kontrolled-khaos-band-outside-all-summer-29-aug
+- The Cassaday Concoction — https://www.unionstagepresents.com/shows/the-cassaday-concoction-29-aug
+
+**Songbyrd Music House**
+- Ella Boh Blurry Tour — https://songbyrddc.com/event/ella-boh-blurry-tour/
+- Jozzy Get Her Back Tour — https://songbyrddc.com/event/jozzy-get-her-back-tour/
+- Laerz — https://songbyrddc.com/event/laerz/
+- Staring In Spaces Presents The Afterparty — https://songbyrddc.com/event/staring-in-spaces-presents-the-afterparty/
+- Staring In Spaces Single Release Show — https://songbyrddc.com/event/staring-in-spaces-single-release-show/
+- The Rb Club Discusses The Legacy Of Aaliyah — https://songbyrddc.com/event/the-rb-club-discusses-the-legacy-of-aaliyah/
+
+---
 ## 2026-07-29 — 7 new show(s)
 
 **IMP (9:30 Club / Anthem / Lincoln / Merriweather)**
