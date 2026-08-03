@@ -4,6 +4,30 @@ Each run prepends newly-detected shows here. Most recent at top.
 
 ---
 
+## 2026-08-03 — 15 new show(s)
+
+**Black Cat**
+- Garbage Fest — https://www.blackcatdc.com/shows/garbage-fest.html
+
+**IMP (9:30 Club / Anthem / Lincoln / Merriweather)**
+- Ilana Glazer Live 2 — https://impconcerts.com/event/ilana-glazer-live-2/
+
+**Union Stage Presents**
+- An Evening With The Nighthawks — https://www.unionstagepresents.com/shows/an-evening-with-the-nighthawks-04-sep
+- Blade Rave Vampire Blood Rave — https://www.unionstagepresents.com/shows/blade-rave-vampire-blood-rave-03-sep
+- Cole Davidson — https://www.unionstagepresents.com/shows/cole-davidson-13-aug
+- Dc Jazzfest 05 Sep B107C — https://www.unionstagepresents.com/shows/dc-jazzfest-05-sep-b107c
+- Dc Jazzfest Presents Dc Jazzprix Finals — https://www.unionstagepresents.com/shows/dc-jazzfest-presents-dc-jazzprix-finals-05-sep
+- Henry Moodie Mood Swings World Tour — https://www.unionstagepresents.com/shows/henry-moodie-mood-swings-world-tour-31-aug
+- Huzzah Better Said Than Done S 15Th Anniversary Storytelling Show — https://www.unionstagepresents.com/shows/huzzah-better-said-than-done-s-15th-anniversary-storytelling-show-03-sep
+- Jinx Proof 30Th Anniversary With Trapped Under Ice Youth Of Today Damnation A D The Final Agony — https://www.unionstagepresents.com/shows/jinx-proof-30th-anniversary-with-trapped-under-ice-youth-of-today-damnation-a-d-the-final-agony-04-sep
+- Pump Action — https://www.unionstagepresents.com/shows/pump-action-01-sep
+- Radish 65 North Pickers — https://www.unionstagepresents.com/shows/radish-65-north-pickers-03-sep
+- Rezn Cycles In The Infinite Dream Tour — https://www.unionstagepresents.com/shows/rezn-cycles-in-the-infinite-dream-tour-02-sep
+- Yoi Toki A Future Funk Vaporwave Party Feat Saint Pepsi — https://www.unionstagepresents.com/shows/yoi-toki-a-future-funk-vaporwave-party-feat-saint-pepsi-04-sep
+- Zeruel — https://www.unionstagepresents.com/shows/zeruel-04-sep
+
+---
 ## 2026-07-31 — 18 new show(s)
 
 **Black Cat**
