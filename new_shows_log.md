@@ -4,6 +4,37 @@ Each run prepends newly-detected shows here. Most recent at top.
 
 ---
 
+## 2026-08-05 — 20 new show(s)
+
+**Black Cat**
+- Ajj — https://www.blackcatdc.com/shows/ajj.html
+
+**IMP (9:30 Club / Anthem / Lincoln / Merriweather)**
+- Brass Against Halloween Tour — https://impconcerts.com/event/brass-against-halloween-tour/
+- Eggy — https://impconcerts.com/event/eggy/
+- Eggy 2 — https://impconcerts.com/event/eggy-2/
+- Eggy Two Night Pass — https://impconcerts.com/event/eggy-two-night-pass/
+- Gimme Gimme Disco — https://impconcerts.com/event/gimme-gimme-disco/
+- Pigeons Playing Ping Pong — https://impconcerts.com/event/pigeons-playing-ping-pong/
+- Pigeons Playing Ping Pong 2 — https://impconcerts.com/event/pigeons-playing-ping-pong-2/
+- Pigeons Playing Ping Pong 3 — https://impconcerts.com/event/pigeons-playing-ping-pong-3/
+- Pigeons Playing Ping Pong 3 Night Pass — https://impconcerts.com/event/pigeons-playing-ping-pong-3-night-pass/
+
+**Union Stage Presents**
+- Free Mainstage Karaoke — https://www.unionstagepresents.com/shows/free-mainstage-karaoke-08-aug
+- Last Call Karaoke Free Karaoke At Pearl Street Warehouse — https://www.unionstagepresents.com/shows/last-call-karaoke-free-karaoke-at-pearl-street-warehouse-03-sep
+- Last Call Karaoke Free Karaoke At Pearl Street Warehouse — https://www.unionstagepresents.com/shows/last-call-karaoke-free-karaoke-at-pearl-street-warehouse-06-aug
+- Last Call Karaoke Free Karaoke At Pearl Street Warehouse — https://www.unionstagepresents.com/shows/last-call-karaoke-free-karaoke-at-pearl-street-warehouse-13-aug
+- Last Call Karaoke Free Karaoke At Pearl Street Warehouse — https://www.unionstagepresents.com/shows/last-call-karaoke-free-karaoke-at-pearl-street-warehouse-20-aug
+- Last Call Karaoke Free Karaoke At Pearl Street Warehouse — https://www.unionstagepresents.com/shows/last-call-karaoke-free-karaoke-at-pearl-street-warehouse-27-aug
+
+**Songbyrd Music House**
+- June Mcdoom — https://songbyrddc.com/event/june-mcdoom/
+- Knarli Hearts X Livemixtapes X Moreparties Dc Presents Knarli Bash Ft Tweetsie — https://songbyrddc.com/event/knarli-hearts-x-livemixtapes-x-moreparties-dc-presents-knarli-bash-ft-tweetsie/
+- Riot Grrls Not Dead Dc Ft Cat Crash — https://songbyrddc.com/event/riot-grrls-not-dead-dc-ft-cat-crash/
+- Smidley 2 — https://songbyrddc.com/event/smidley-2/
+
+---
 ## 2026-08-03 — 15 new show(s)
 
 **Black Cat**
