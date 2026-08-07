@@ -4,6 +4,24 @@ Each run prepends newly-detected shows here. Most recent at top.
 
 ---
 
+## 2026-08-07 — 9 new show(s)
+
+**IMP (9:30 Club / Anthem / Lincoln / Merriweather)**
+- Bonnie Garmus Peck Peck — https://impconcerts.com/event/bonnie-garmus-peck-peck/
+- Jennifer Welch Not Today Fascists — https://impconcerts.com/event/jennifer-welch-not-today-fascists/
+
+**Union Stage Presents**
+- Dayshift Party — https://www.unionstagepresents.com/shows/dayshift-party-05-sep
+- Dc Jazzfest — https://www.unionstagepresents.com/shows/dc-jazzfest-05-sep
+- First Day Out The Biggest Back 2 School Party — https://www.unionstagepresents.com/shows/first-day-out-the-biggest-back-2-school-party-28-aug
+- Kpop Club Night — https://www.unionstagepresents.com/shows/kpop-club-night-05-sep
+- Rawhoney — https://www.unionstagepresents.com/shows/rawhoney-05-sep
+- Something Different Dc Presents Dmv Talent Live — https://www.unionstagepresents.com/shows/something-different-dc-presents-dmv-talent-live-05-sep
+
+**Songbyrd Music House**
+- Songbyrd Music Trivia Night 21 — https://songbyrddc.com/event/songbyrd-music-trivia-night-21/
+
+---
 ## 2026-08-05 — 20 new show(s)
 
 **Black Cat**
