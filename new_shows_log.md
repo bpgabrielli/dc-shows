@@ -4,6 +4,35 @@ Each run prepends newly-detected shows here. Most recent at top.
 
 ---
 
+## 2026-08-10 — 18 new show(s)
+
+**Black Cat**
+- Iceage — https://www.blackcatdc.com/shows/iceage.html
+- Pretty Bitter — https://www.blackcatdc.com/shows/pretty-bitter.html
+
+**IMP (9:30 Club / Anthem / Lincoln / Merriweather)**
+- Gallant — https://impconcerts.com/event/gallant/
+
+**Union Stage Presents**
+- 3Quency Girls Talk Tour — https://www.unionstagepresents.com/shows/3quency-girls-talk-tour-09-sep
+- Dc Jazzfest — https://www.unionstagepresents.com/shows/dc-jazzfest-06-sep
+- Dc Jazzfest 06 Sep C7Ee5 — https://www.unionstagepresents.com/shows/dc-jazzfest-06-sep-c7ee5
+- Dc Moth Storyslam Nine To Five — https://www.unionstagepresents.com/shows/dc-moth-storyslam-nine-to-five-07-sep
+- Jim E Brown — https://www.unionstagepresents.com/shows/jim-e-brown-10-sep
+- Only Friends Dream On Fan Meeting Gmmtv Thailand Presented By Myownmoves Llc — https://www.unionstagepresents.com/shows/only-friends-dream-on-fan-meeting-gmmtv-thailand-presented-by-myownmoves-llc-06-sep
+- Only Friends Dream On Fan Meeting Gmmtv Thailand Presented By Myownmoves Llc — https://www.unionstagepresents.com/shows/only-friends-dream-on-fan-meeting-gmmtv-thailand-presented-by-myownmoves-llc-07-sep
+- Rum Jungle — https://www.unionstagepresents.com/shows/rum-jungle-09-sep
+- Shiner — https://www.unionstagepresents.com/shows/shiner-08-sep
+- Sicard Hollow — https://www.unionstagepresents.com/shows/sicard-hollow-10-sep
+- The Callous Daoboys Heaven Across North America — https://www.unionstagepresents.com/shows/the-callous-daoboys-heaven-across-north-america-08-sep
+- The Cybertronic Spree — https://www.unionstagepresents.com/shows/the-cybertronic-spree-07-sep
+- This Is At Fillmore Hulvey — https://www.unionstagepresents.com/shows/this-is-at-fillmore-hulvey-08-sep
+
+**Songbyrd Music House**
+- Guachinangos W Chicha Morada — https://songbyrddc.com/event/guachinangos-w-chicha-morada/
+- Open Mike Eagle W Kenny Segal — https://songbyrddc.com/event/open-mike-eagle-w-kenny-segal/
+
+---
 ## 2026-08-07 — 9 new show(s)
 
 **IMP (9:30 Club / Anthem / Lincoln / Merriweather)**
