@@ -4,6 +4,31 @@ Each run prepends newly-detected shows here. Most recent at top.
 
 ---
 
+## 2026-08-12 — 16 new show(s)
+
+**IMP (9:30 Club / Anthem / Lincoln / Merriweather)**
+- Allison Russell — https://impconcerts.com/event/allison-russell/
+- Andrea Gibsons Love Letter From The Afterlife — https://impconcerts.com/event/andrea-gibsons-love-letter-from-the-afterlife/
+- Olivia Obrien Presents The Pixie Tour — https://impconcerts.com/event/olivia-obrien-presents-the-pixie-tour/
+- Pretty Sick — https://impconcerts.com/event/pretty-sick/
+- Sadurn — https://impconcerts.com/event/sadurn/
+- Steve Lacy Oh Yeah Tour — https://impconcerts.com/event/steve-lacy-oh-yeah-tour/
+- Thee Sinseers Love Stories Tour — https://impconcerts.com/event/thee-sinseers-love-stories-tour/
+- Young Thug Meet Greet Upgrade Ticket Not Included — https://impconcerts.com/event/young-thug-meet-greet-upgrade-ticket-not-included/
+
+**Union Stage Presents**
+- 1St Wednesdays With Push Play Featuring D Floyd — https://www.unionstagepresents.com/shows/1st-wednesdays-with-push-play-featuring-d-floyd-02-sep
+- Last Call Karaoke Free Karaoke At Pearl Street Warehouse — https://www.unionstagepresents.com/shows/last-call-karaoke-free-karaoke-at-pearl-street-warehouse-10-sep
+- Poison Girl Friend — https://www.unionstagepresents.com/shows/poison-girl-friend-10-sep
+- Two Runner — https://www.unionstagepresents.com/shows/two-runner-10-sep
+
+**Songbyrd Music House**
+- Alex Alavi The Funky Breakfast Album Release Show — https://songbyrddc.com/event/alex-alavi-the-funky-breakfast-album-release-show/
+- Bluebelt Ep Release Show — https://songbyrddc.com/event/bluebelt-ep-release-show/
+- Shaolin Jazz Can I Kick It Ft The Killer — https://songbyrddc.com/event/shaolin-jazz-can-i-kick-it-ft-the-killer/
+- The Olllam — https://songbyrddc.com/event/the-olllam/
+
+---
 ## 2026-08-10 — 18 new show(s)
 
 **Black Cat**
