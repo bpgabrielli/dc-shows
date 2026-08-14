@@ -4,6 +4,28 @@ Each run prepends newly-detected shows here. Most recent at top.
 
 ---
 
+## 2026-08-14 — 11 new show(s)
+
+**Black Cat**
+- Tiny Hands — https://www.blackcatdc.com/shows/tiny-hands.html
+
+**IMP (9:30 Club / Anthem / Lincoln / Merriweather)**
+- Austin Snell — https://impconcerts.com/event/austin-snell/
+- Avery Cochrane Weapons Of Iridescence Tour — https://impconcerts.com/event/avery-cochrane-weapons-of-iridescence-tour/
+- Bassvictim — https://impconcerts.com/event/bassvictim/
+
+**Union Stage Presents**
+- Aldous Harding — https://www.unionstagepresents.com/shows/aldous-harding-11-sep
+- Back To School Parents Night Out W Dj Banannas — https://www.unionstagepresents.com/shows/back-to-school-parents-night-out-w-dj-banannas-11-sep
+- Ben Tufts And Friends Present Spirit Of 76 — https://www.unionstagepresents.com/shows/ben-tufts-and-friends-present-spirit-of-76-12-sep
+- Charlotte Sands Satellite Tour — https://www.unionstagepresents.com/shows/charlotte-sands-satellite-tour-11-sep
+- Dr Badar Khan Suri Benefit Show Ft Somebody S Daughter And Fetcher — https://www.unionstagepresents.com/shows/dr-badar-khan-suri-benefit-show-ft-somebody-s-daughter-and-fetcher-12-sep
+- Luluyam — https://www.unionstagepresents.com/shows/luluyam-11-sep
+
+**Songbyrd Music House**
+- Red Brick Weekend 2026 — https://songbyrddc.com/event/red-brick-weekend-2026/
+
+---
 ## 2026-08-12 — 16 new show(s)
 
 **IMP (9:30 Club / Anthem / Lincoln / Merriweather)**
