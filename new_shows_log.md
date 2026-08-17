@@ -4,6 +4,32 @@ Each run prepends newly-detected shows here. Most recent at top.
 
 ---
 
+## 2026-08-17 — 19 new show(s)
+
+**Black Cat**
+- Blacks Myths — https://www.blackcatdc.com/shows/blacks-myths.html
+- Man Or Astroman — https://www.blackcatdc.com/shows/man-or-astroman.html
+- Mareux — https://www.blackcatdc.com/shows/mareux.html
+
+**Union Stage Presents**
+- Alicia Witt Album Release Show Between Heaven And Earth And David Lynch — https://www.unionstagepresents.com/shows/alicia-witt-album-release-show-between-heaven-and-earth-and-david-lynch-15-sep
+- Beth Orton — https://www.unionstagepresents.com/shows/beth-orton-15-sep
+- Daisy Chain — https://www.unionstagepresents.com/shows/daisy-chain-13-sep
+- Evangelia — https://www.unionstagepresents.com/shows/evangelia-13-sep
+- Free Mainstage Karaoke — https://www.unionstagepresents.com/shows/free-mainstage-karaoke-22-aug
+- Inayah Therapy Wasn T Enough North America Tour 2026 — https://www.unionstagepresents.com/shows/inayah-therapy-wasn-t-enough-north-america-tour-2026-13-sep
+- Kanii Lightman Tour — https://www.unionstagepresents.com/shows/kanii-lightman-tour-12-sep
+- Madame Joyce The Purple Couch Tour — https://www.unionstagepresents.com/shows/madame-joyce-the-purple-couch-tour-13-sep
+- Nai Palm — https://www.unionstagepresents.com/shows/nai-palm-14-sep
+- Qlsa The Washington Dc Chapter Of The Famu Naa Presents The Black Athlete Town Hall — https://www.unionstagepresents.com/shows/qlsa-the-washington-dc-chapter-of-the-famu-naa-presents-the-black-athlete-town-hall-15-sep
+- Reggaeton Y 2000S Perreo Classics Y2K All Night — https://www.unionstagepresents.com/shows/reggaeton-y-2000s-perreo-classics-y2k-all-night-12-sep
+- Sondre Lerche — https://www.unionstagepresents.com/shows/sondre-lerche-12-sep
+- Sparta — https://www.unionstagepresents.com/shows/sparta-14-sep
+- Theo Croker — https://www.unionstagepresents.com/shows/theo-croker-13-sep
+- Wax Dj Hoppa With Grieves — https://www.unionstagepresents.com/shows/wax-dj-hoppa-with-grieves-12-sep
+- Wegz Live In Dc — https://www.unionstagepresents.com/shows/wegz-live-in-dc-12-sep
+
+---
 ## 2026-08-14 — 11 new show(s)
 
 **Black Cat**
