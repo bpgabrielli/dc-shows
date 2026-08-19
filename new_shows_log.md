@@ -4,6 +4,30 @@ Each run prepends newly-detected shows here. Most recent at top.
 
 ---
 
+## 2026-08-19 — 15 new show(s)
+
+**IMP (9:30 Club / Anthem / Lincoln / Merriweather)**
+- Blu Detiger The Want You Baby Tonight Tour — https://impconcerts.com/event/blu-detiger-the-want-you-baby-tonight-tour/
+- Brett Goldsteinsex Death Small Talk — https://impconcerts.com/event/brett-goldsteinsex-death-small-talk/
+- Brian Hensons Puppet Up — https://impconcerts.com/event/brian-hensons-puppet-up/
+- Lucy Bedroque — https://impconcerts.com/event/lucy-bedroque/
+- Ryan Beatty Arms Over Armor North American Tour 26 — https://impconcerts.com/event/ryan-beatty-arms-over-armor-north-american-tour-26/
+- Static Dress — https://impconcerts.com/event/static-dress/
+- The Music Of Hey Arnold Live — https://impconcerts.com/event/the-music-of-hey-arnold-live/
+- Top Shelf — https://impconcerts.com/event/top-shelf/
+
+**Union Stage Presents**
+- Anna Graves — https://www.unionstagepresents.com/shows/anna-graves-15-sep
+- Devon Gilfillian — https://www.unionstagepresents.com/shows/devon-gilfillian-15-sep
+- Through The Griffin Tour Hosted By The Super Carlin Brothers — https://www.unionstagepresents.com/shows/through-the-griffin-tour-hosted-by-the-super-carlin-brothers-16-sep
+- Vwillz The Long Story Short Tour — https://www.unionstagepresents.com/shows/vwillz-the-long-story-short-tour-16-sep
+
+**Songbyrd Music House**
+- Lucy Cooper B Handy — https://songbyrddc.com/event/lucy-cooper-b-handy/
+- Maggie Koerner Upstate Tour — https://songbyrddc.com/event/maggie-koerner-upstate-tour/
+- Ryan Peter Murphy — https://songbyrddc.com/event/ryan-peter-murphy/
+
+---
 ## 2026-08-17 — 19 new show(s)
 
 **Black Cat**
