@@ -4,6 +4,25 @@ Each run prepends newly-detected shows here. Most recent at top.
 
 ---
 
+## 2026-08-21 — 10 new show(s)
+
+**IMP (9:30 Club / Anthem / Lincoln / Merriweather)**
+- Bunii Buniiversity Tour — https://impconcerts.com/event/bunii-buniiversity-tour/
+- Jerry Seinfeld 3 — https://impconcerts.com/event/jerry-seinfeld-3/
+- Montell Fish The Nest Tour — https://impconcerts.com/event/montell-fish-the-nest-tour/
+
+**Union Stage Presents**
+- A Shrewdness Of Apes — https://www.unionstagepresents.com/shows/a-shrewdness-of-apes-16-sep
+- Free Dance Party Super Bailable With Leon City Sounds Martin Miguel — https://www.unionstagepresents.com/shows/free-dance-party-super-bailable-with-leon-city-sounds-martin-miguel-30-aug
+- Horse Feathers — https://www.unionstagepresents.com/shows/horse-feathers-17-sep
+- Soda Blonde — https://www.unionstagepresents.com/shows/soda-blonde-17-sep
+- The Jury Experience Death By Ai Will Washington Dc Deliver Justice 18 Sep D43Ad — https://www.unionstagepresents.com/shows/the-jury-experience-death-by-ai-will-washington-dc-deliver-justice-18-sep-d43ad
+- Vacation Manor — https://www.unionstagepresents.com/shows/vacation-manor-17-sep
+
+**Songbyrd Music House**
+- Flowers For The Dead 3 — https://songbyrddc.com/event/flowers-for-the-dead-3/
+
+---
 ## 2026-08-19 — 15 new show(s)
 
 **IMP (9:30 Club / Anthem / Lincoln / Merriweather)**
