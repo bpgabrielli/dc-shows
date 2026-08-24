@@ -4,6 +4,31 @@ Each run prepends newly-detected shows here. Most recent at top.
 
 ---
 
+## 2026-08-24 — 16 new show(s)
+
+**Black Cat**
+- Kids Table — https://www.blackcatdc.com/shows/kids-table.html
+
+**IMP (9:30 Club / Anthem / Lincoln / Merriweather)**
+- Stella Lefty Long Way Home Tour — https://impconcerts.com/event/stella-lefty-long-way-home-tour/
+- Zarna Garg Million Dollar Excuses — https://impconcerts.com/event/zarna-garg-million-dollar-excuses/
+
+**Union Stage Presents**
+- An Intimate Evening With Copeland — https://www.unionstagepresents.com/shows/an-intimate-evening-with-copeland-19-sep
+- Benny G — https://www.unionstagepresents.com/shows/benny-g-18-sep
+- Brian K The Parkway Album Release — https://www.unionstagepresents.com/shows/brian-k-the-parkway-album-release-18-sep
+- Club Slayyyy — https://www.unionstagepresents.com/shows/club-slayyyy-18-sep
+- El Ten Eleven — https://www.unionstagepresents.com/shows/el-ten-eleven-19-sep
+- Homestyle Dinner Rolls — https://www.unionstagepresents.com/shows/homestyle-dinner-rolls-20-sep
+- Joe Fenti — https://www.unionstagepresents.com/shows/joe-fenti-20-sep
+- Nate Vickers — https://www.unionstagepresents.com/shows/nate-vickers-21-sep
+- Phoebe Ryan Mine Yours The Tour — https://www.unionstagepresents.com/shows/phoebe-ryan-mine-yours-the-tour-20-sep
+- Rad Arts Foundation Presents Mohsen Namjoo Live In Washington Dc — https://www.unionstagepresents.com/shows/rad-arts-foundation-presents-mohsen-namjoo-live-in-washington-dc-18-sep
+- Saves The Day — https://www.unionstagepresents.com/shows/saves-the-day-21-sep
+- The Jury Experience Death By Ai Will Washington Dc Deliver Justice — https://www.unionstagepresents.com/shows/the-jury-experience-death-by-ai-will-washington-dc-deliver-justice-18-sep
+- Way Dynamic — https://www.unionstagepresents.com/shows/way-dynamic-18-sep
+
+---
 ## 2026-08-21 — 10 new show(s)
 
 **IMP (9:30 Club / Anthem / Lincoln / Merriweather)**
