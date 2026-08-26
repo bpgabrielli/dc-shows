@@ -4,6 +4,26 @@ Each run prepends newly-detected shows here. Most recent at top.
 
 ---
 
+## 2026-08-26 — 9 new show(s)
+
+**Black Cat**
+- Sir Woman — https://www.blackcatdc.com/shows/sir-woman.html
+
+**IMP (9:30 Club / Anthem / Lincoln / Merriweather)**
+- Psycho Killers Talking Heads Tribute — https://impconcerts.com/event/psycho-killers-talking-heads-tribute/
+- Yebba — https://impconcerts.com/event/yebba/
+
+**Union Stage Presents**
+- Free Dance Party Yacht Rock Rendezvous W Dj D — https://www.unionstagepresents.com/shows/free-dance-party-yacht-rock-rendezvous-w-dj-d-29-aug
+- Freestyle Dansfit — https://www.unionstagepresents.com/shows/freestyle-dansfit-05-sep
+- Freestyle Dansfit — https://www.unionstagepresents.com/shows/freestyle-dansfit-12-sep
+- Freestyle Dansfit — https://www.unionstagepresents.com/shows/freestyle-dansfit-19-sep
+
+**Songbyrd Music House**
+- Az Chike No Rest For The Wicked Tour — https://songbyrddc.com/event/az-chike-no-rest-for-the-wicked-tour/
+- Night Of 1000 Taylors Halloween Party Costume Contest Ft The Fearless Eras — https://songbyrddc.com/event/night-of-1000-taylors-halloween-party-costume-contest-ft-the-fearless-eras/
+
+---
 ## 2026-08-24 — 16 new show(s)
 
 **Black Cat**
