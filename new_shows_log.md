@@ -4,6 +4,24 @@ Each run prepends newly-detected shows here. Most recent at top.
 
 ---
 
+## 2026-08-28 — 9 new show(s)
+
+**IMP (9:30 Club / Anthem / Lincoln / Merriweather)**
+- All Things Go 2 Day Pass Friday Saturday — https://impconcerts.com/event/all-things-go-2-day-pass-friday-saturday/
+- All Things Go 2 Day Pass Friday Sunday — https://impconcerts.com/event/all-things-go-2-day-pass-friday-sunday/
+- All Things Go 2 Day Pass Saturday Sunday — https://impconcerts.com/event/all-things-go-2-day-pass-saturday-sunday/
+- Cannelle — https://impconcerts.com/event/cannelle/
+- Cant Feel My Face 2010S Dance Party — https://impconcerts.com/event/cant-feel-my-face-2010s-dance-party/
+
+**Union Stage Presents**
+- Blu Eyes Two People At Once Tour — https://www.unionstagepresents.com/shows/blu-eyes-two-people-at-once-tour-22-sep
+- The Psycodelics — https://www.unionstagepresents.com/shows/the-psycodelics-21-sep
+
+**Songbyrd Music House**
+- School Of Rock Silver Spring Summer Showcase — https://songbyrddc.com/event/school-of-rock-silver-spring-summer-showcase/
+- The Rb Club Celebrates 50 Years Of Songs In The Key Of Life — https://songbyrddc.com/event/the-rb-club-celebrates-50-years-of-songs-in-the-key-of-life/
+
+---
 ## 2026-08-26 — 9 new show(s)
 
 **Black Cat**
