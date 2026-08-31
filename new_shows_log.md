@@ -4,6 +4,27 @@ Each run prepends newly-detected shows here. Most recent at top.
 
 ---
 
+## 2026-08-31 — 14 new show(s)
+
+**IMP (9:30 Club / Anthem / Lincoln / Merriweather)**
+- Lexi Jayde — https://impconcerts.com/event/lexi-jayde/
+
+**Union Stage Presents**
+- Altin Gun America Tour 2026 Support Alex Maas — https://www.unionstagepresents.com/shows/altin-gun-america-tour-2026-support-alex-maas-25-sep
+- B Side Presents Anees Lucky Duck Tour Washington D C — https://www.unionstagepresents.com/shows/b-side-presents-anees-lucky-duck-tour-washington-d-c-24-sep
+- Cabaret Voltaire Final Usa Canada Tour — https://www.unionstagepresents.com/shows/cabaret-voltaire-final-usa-canada-tour-23-sep
+- Domi Jd Beck Who Asked Tour — https://www.unionstagepresents.com/shows/domi-jd-beck-who-asked-tour-22-sep
+- Gnash The Garden Tour — https://www.unionstagepresents.com/shows/gnash-the-garden-tour-24-sep
+- Goodnight Texas — https://www.unionstagepresents.com/shows/goodnight-texas-23-sep
+- Hot Flash Heat Wave — https://www.unionstagepresents.com/shows/hot-flash-heat-wave-25-sep
+- Jervis Campbell — https://www.unionstagepresents.com/shows/jervis-campbell-22-sep
+- Kennedy Ryon The Can We Evolve Tour — https://www.unionstagepresents.com/shows/kennedy-ryon-the-can-we-evolve-tour-23-sep
+- Scoochie Boochie — https://www.unionstagepresents.com/shows/scoochie-boochie-24-sep
+- Sorry For Party Rocking 2010 2015 Pop Edm All Night Long — https://www.unionstagepresents.com/shows/sorry-for-party-rocking-2010-2015-pop-edm-all-night-long-25-sep
+- Southern Culture On The Skids — https://www.unionstagepresents.com/shows/southern-culture-on-the-skids-25-sep
+- The Holdup — https://www.unionstagepresents.com/shows/the-holdup-24-sep
+
+---
 ## 2026-08-28 — 9 new show(s)
 
 **IMP (9:30 Club / Anthem / Lincoln / Merriweather)**
