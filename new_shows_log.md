@@ -4,6 +4,25 @@ Each run prepends newly-detected shows here. Most recent at top.
 
 ---
 
+## 2026-09-02 — 10 new show(s)
+
+**Black Cat**
+- Fake Names — https://www.blackcatdc.com/shows/fake-names.html
+- Hickory Dave — https://www.blackcatdc.com/shows/hickory-dave.html
+
+**IMP (9:30 Club / Anthem / Lincoln / Merriweather)**
+- Amber Autry Happy Holler Tour 3 — https://impconcerts.com/event/amber-autry-happy-holler-tour-3/
+- Pigeons Playing Ping Pong 2 Nightpass 12 3 Atlantis 12 4 930 Club — https://impconcerts.com/event/pigeons-playing-ping-pong-2-nightpass-12-3-atlantis-12-4-930-club/
+
+**Union Stage Presents**
+- Arin Ray The Limbo Tour — https://www.unionstagepresents.com/shows/arin-ray-the-limbo-tour-26-sep
+- Bachelor Boys — https://www.unionstagepresents.com/shows/bachelor-boys-14-sep
+- Madison Ryann Ward The Standing Tall Tour — https://www.unionstagepresents.com/shows/madison-ryann-ward-the-standing-tall-tour-26-sep
+- The Best Little Rocky Horror House In Dc A Dolly Parton X Tim Curry Dance Party — https://www.unionstagepresents.com/shows/the-best-little-rocky-horror-house-in-dc-a-dolly-parton-x-tim-curry-dance-party-12-sep
+- The Bros Landreth Tumbling Wild Tour 2026 — https://www.unionstagepresents.com/shows/the-bros-landreth-tumbling-wild-tour-2026-26-sep
+- Y2K Daytime Dance Party Ft Dj D — https://www.unionstagepresents.com/shows/y2k-daytime-dance-party-ft-dj-d-26-sep
+
+---
 ## 2026-08-31 — 14 new show(s)
 
 **IMP (9:30 Club / Anthem / Lincoln / Merriweather)**
