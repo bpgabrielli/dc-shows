@@ -4,6 +4,26 @@ Each run prepends newly-detected shows here. Most recent at top.
 
 ---
 
+## 2026-09-04 — 9 new show(s)
+
+**Black Cat**
+- Coven — https://www.blackcatdc.com/shows/coven.html
+
+**IMP (9:30 Club / Anthem / Lincoln / Merriweather)**
+- Roa — https://impconcerts.com/event/roa/
+
+**Union Stage Presents**
+- Afrobeats To The World — https://www.unionstagepresents.com/shows/afrobeats-to-the-world-26-sep
+- Armand Hammer — https://www.unionstagepresents.com/shows/armand-hammer-27-sep
+- Day Made Tour Ft Big Red Alex Dougherty — https://www.unionstagepresents.com/shows/day-made-tour-ft-big-red-alex-dougherty-23-sep
+- Jay Nash — https://www.unionstagepresents.com/shows/jay-nash-27-sep
+- Joshua Radin — https://www.unionstagepresents.com/shows/joshua-radin-26-sep
+- Opal In Sky — https://www.unionstagepresents.com/shows/opal-in-sky-26-sep
+- Satin Jackets — https://www.unionstagepresents.com/shows/satin-jackets-26-sep
+
+_Note: could not check Songbyrd Music House this run._
+
+---
 ## 2026-09-02 — 10 new show(s)
 
 **Black Cat**
