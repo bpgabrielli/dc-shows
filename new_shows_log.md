@@ -4,6 +4,29 @@ Each run prepends newly-detected shows here. Most recent at top.
 
 ---
 
+## 2026-09-07 — 16 new show(s)
+
+**Union Stage Presents**
+- Butttootking Lydia B Kollins Suzie Toot And Kori King — https://www.unionstagepresents.com/shows/butttootking-lydia-b-kollins-suzie-toot-and-kori-king-01-oct
+- Chinese Football — https://www.unionstagepresents.com/shows/chinese-football-30-sep
+- Croz Boyce Avey Tare And Geologist Of Animal Collective — https://www.unionstagepresents.com/shows/croz-boyce-avey-tare-and-geologist-of-animal-collective-29-sep
+- Dc Moth Storyslam Magic — https://www.unionstagepresents.com/shows/dc-moth-storyslam-magic-01-oct
+- Inoha — https://www.unionstagepresents.com/shows/inoha-29-sep
+- John Cameron Mitchell Hedwig 25Th Anniversary Tour — https://www.unionstagepresents.com/shows/john-cameron-mitchell-hedwig-25th-anniversary-tour-29-sep
+- Lectures On Tap — https://www.unionstagepresents.com/shows/lectures-on-tap-30-sep
+- Our Lady Peace — https://www.unionstagepresents.com/shows/our-lady-peace-30-sep
+- Post Sex Nachos — https://www.unionstagepresents.com/shows/post-sex-nachos-27-sep
+- Rocketship A Certain Smile A Certain Sadness 30Th Anniversary Tour — https://www.unionstagepresents.com/shows/rocketship-a-certain-smile-a-certain-sadness-30th-anniversary-tour-28-sep
+- Santiago Cruz Sigo En Pie Tour — https://www.unionstagepresents.com/shows/santiago-cruz-sigo-en-pie-tour-30-sep
+- Sera Cahoone — https://www.unionstagepresents.com/shows/sera-cahoone-29-sep
+- Squirrel Flower — https://www.unionstagepresents.com/shows/squirrel-flower-01-oct
+- The Tear Garden The Legendary Pink Dots Cevin Key — https://www.unionstagepresents.com/shows/the-tear-garden-the-legendary-pink-dots-cevin-key-28-sep
+- Upon Your Dead Body — https://www.unionstagepresents.com/shows/upon-your-dead-body-29-sep
+
+**Songbyrd Music House**
+- Mustard Tiger — https://songbyrddc.com/event/mustard-tiger/
+
+---
 ## 2026-09-04 — 9 new show(s)
 
 **Black Cat**
