@@ -4,6 +4,39 @@ Each run prepends newly-detected shows here. Most recent at top.
 
 ---
 
+## 2026-09-09 — 22 new show(s)
+
+**Black Cat**
+- Nice As Fuck — https://www.blackcatdc.com/shows/nice-as-fuck.html
+
+**IMP (9:30 Club / Anthem / Lincoln / Merriweather)**
+- An Acoustic Evening With Prateek Kuhad — https://impconcerts.com/event/an-acoustic-evening-with-prateek-kuhad/
+- Baby Janes Winter Forever Tour — https://impconcerts.com/event/baby-janes-winter-forever-tour/
+- Beirut — https://impconcerts.com/event/beirut/
+- Hoochie Daddy Halloween Edition — https://impconcerts.com/event/hoochie-daddy-halloween-edition/
+- Katt Williams On Book Tour — https://impconcerts.com/event/katt-williams-on-book-tour/
+- Matt Rogers This Time Its Really Christmas Tour — https://impconcerts.com/event/matt-rogers-this-time-its-really-christmas-tour/
+- New Years Eve With Dj Trixie Mattel — https://impconcerts.com/event/new-years-eve-with-dj-trixie-mattel/
+- Shallou — https://impconcerts.com/event/shallou/
+- Watch What Crappens In The Mix Tour — https://impconcerts.com/event/watch-what-crappens-in-the-mix-tour/
+- Watch What Crappens Vip Package Upgrade — https://impconcerts.com/event/watch-what-crappens-vip-package-upgrade/
+
+**Union Stage Presents**
+- Daley Us Tour — https://www.unionstagepresents.com/shows/daley-us-tour-02-oct
+- Hannah Cole — https://www.unionstagepresents.com/shows/hannah-cole-01-oct
+- Improvement Movement — https://www.unionstagepresents.com/shows/improvement-movement-02-oct
+- Outback Presents Crashing Out Live — https://www.unionstagepresents.com/shows/outback-presents-crashing-out-live-02-oct
+- Uga Buga — https://www.unionstagepresents.com/shows/uga-buga-01-oct
+- Weatherday Hornet Disaster Tour 2026 — https://www.unionstagepresents.com/shows/weatherday-hornet-disaster-tour-2026-02-oct
+
+**Songbyrd Music House**
+- Josie Edwards — https://songbyrddc.com/event/josie-edwards/
+- Michael Jesse Ep Release Show — https://songbyrddc.com/event/michael-jesse-ep-release-show/
+- Monster Mashups Halloween Dance Party Ft Dj P Vo — https://songbyrddc.com/event/monster-mashups-halloween-dance-party-ft-dj-p-vo/
+- Shaolin Jazz Can I Kick It Ft Buddhas Palm — https://songbyrddc.com/event/shaolin-jazz-can-i-kick-it-ft-buddhas-palm/
+- Spanish Love Songs The Cost Of Living Tour — https://songbyrddc.com/event/spanish-love-songs-the-cost-of-living-tour/
+
+---
 ## 2026-09-07 — 16 new show(s)
 
 **Union Stage Presents**
