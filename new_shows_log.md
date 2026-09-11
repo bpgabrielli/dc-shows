@@ -4,6 +4,30 @@ Each run prepends newly-detected shows here. Most recent at top.
 
 ---
 
+## 2026-09-11 — 13 new show(s)
+
+**Black Cat**
+- Backrooms Drag — https://www.blackcatdc.com/shows/backrooms-drag.html
+- Nice As Fuck Early Show — https://www.blackcatdc.com/shows/nice-as-fuck-early-show.html
+
+**IMP (9:30 Club / Anthem / Lincoln / Merriweather)**
+- Alyssa Grace Wanna Be Singer Tour — https://impconcerts.com/event/alyssa-grace-wanna-be-singer-tour/
+- Victoria Monet Frequency Of Love Tour — https://impconcerts.com/event/victoria-monet-frequency-of-love-tour/
+- Westside Cowboy — https://impconcerts.com/event/westside-cowboy/
+
+**Union Stage Presents**
+- Irresponsible Reunion Show Tobin James Band — https://www.unionstagepresents.com/shows/irresponsible-reunion-show-tobin-james-band-02-oct
+- Mindy Gledhill The Phone Booth Sessions Tour — https://www.unionstagepresents.com/shows/mindy-gledhill-the-phone-booth-sessions-tour-03-oct
+- Raaginder Be Coming Usa Tour — https://www.unionstagepresents.com/shows/raaginder-be-coming-usa-tour-03-oct
+- The Jungle Giants Experiencing Feelings Of Joy — https://www.unionstagepresents.com/shows/the-jungle-giants-experiencing-feelings-of-joy-03-oct
+- Who Weekly I Want To Be Famous — https://www.unionstagepresents.com/shows/who-weekly-i-want-to-be-famous-03-oct
+
+**Songbyrd Music House**
+- Girls Rock Halloween — https://songbyrddc.com/event/girls-rock-halloween/
+- James Ivy 2 — https://songbyrddc.com/event/james-ivy-2/
+- Songbyrd Music Trivia Night Emo Trivia Hosted By Sam Todd — https://songbyrddc.com/event/songbyrd-music-trivia-night-emo-trivia-hosted-by-sam-todd/
+
+---
 ## 2026-09-09 — 22 new show(s)
 
 **Black Cat**
