@@ -4,6 +4,33 @@ Each run prepends newly-detected shows here. Most recent at top.
 
 ---
 
+## 2026-09-14 — 18 new show(s)
+
+**IMP (9:30 Club / Anthem / Lincoln / Merriweather)**
+- Alan Walker — https://impconcerts.com/event/alan-walker/
+- Tophouse — https://impconcerts.com/event/tophouse/
+
+**Union Stage Presents**
+- Allison Eide — https://www.unionstagepresents.com/shows/allison-eide-05-oct
+- Angelo De Augustine — https://www.unionstagepresents.com/shows/angelo-de-augustine-05-oct
+- Club K Pop K Pop Hits K Edm All Night Long — https://www.unionstagepresents.com/shows/club-k-pop-k-pop-hits-k-edm-all-night-long-03-oct
+- Davide De Pierro — https://www.unionstagepresents.com/shows/davide-de-pierro-04-oct
+- Deceits — https://www.unionstagepresents.com/shows/deceits-05-oct
+- Eliot Lipp — https://www.unionstagepresents.com/shows/eliot-lipp-03-oct
+- Greywind — https://www.unionstagepresents.com/shows/greywind-04-oct
+- Honor By August — https://www.unionstagepresents.com/shows/honor-by-august-03-oct
+- Jeff Bernat Luv Language Tour — https://www.unionstagepresents.com/shows/jeff-bernat-luv-language-tour-04-oct
+- Joshua Burnside — https://www.unionstagepresents.com/shows/joshua-burnside-06-oct
+- Justin Nozuka — https://www.unionstagepresents.com/shows/justin-nozuka-06-oct
+- Kelsey Lu So Help Me God Tour — https://www.unionstagepresents.com/shows/kelsey-lu-so-help-me-god-tour-06-oct
+- Kruder Dorfmeister K D Kicks 30 Anniversary Tour — https://www.unionstagepresents.com/shows/kruder-dorfmeister-k-d-kicks-30-anniversary-tour-03-oct
+- Mrg Live Presents Kristin Key The Ca Caw Tour — https://www.unionstagepresents.com/shows/mrg-live-presents-kristin-key-the-ca-caw-tour-03-oct
+- Unsane — https://www.unionstagepresents.com/shows/unsane-04-oct
+
+**Songbyrd Music House**
+- Cortex — https://songbyrddc.com/event/cortex/
+
+---
 ## 2026-09-11 — 13 new show(s)
 
 **Black Cat**
