@@ -4,6 +4,32 @@ Each run prepends newly-detected shows here. Most recent at top.
 
 ---
 
+## 2026-09-16 — 17 new show(s)
+
+**IMP (9:30 Club / Anthem / Lincoln / Merriweather)**
+- Bad Suns Disappear Here A Ten Year Celebration — https://impconcerts.com/event/bad-suns-disappear-here-a-ten-year-celebration/
+- Demetri Martin Standup Comedy For Christmas — https://impconcerts.com/event/demetri-martin-standup-comedy-for-christmas/
+- Improvised Shakespeare — https://impconcerts.com/event/improvised-shakespeare/
+- Marian Hill Act Two The Tour — https://impconcerts.com/event/marian-hill-act-two-the-tour/
+- Matisyahu Festival Of Lights — https://impconcerts.com/event/matisyahu-festival-of-lights/
+- Matt Friend — https://impconcerts.com/event/matt-friend/
+- Rhiannon Giddens — https://impconcerts.com/event/rhiannon-giddens/
+- The Rock And Roll Playhouse Plays The Music Of David Bowie — https://impconcerts.com/event/the-rock-and-roll-playhouse-plays-the-music-of-david-bowie/
+- Thievery Corporation — https://impconcerts.com/event/thievery-corporation/
+- Trey Anastasio Band — https://impconcerts.com/event/trey-anastasio-band/
+
+**Union Stage Presents**
+- Big Special — https://www.unionstagepresents.com/shows/big-special-07-oct
+- Cortex — https://www.unionstagepresents.com/shows/cortex-06-oct
+- Laura Veirs — https://www.unionstagepresents.com/shows/laura-veirs-08-oct
+- Michael Kosta Big Dad Energy — https://www.unionstagepresents.com/shows/michael-kosta-big-dad-energy-09-oct
+- Oct — https://www.unionstagepresents.com/shows/oct-08-oct
+- The Yawpers — https://www.unionstagepresents.com/shows/the-yawpers-07-oct
+
+**Songbyrd Music House**
+- Eliza Mclamb — https://songbyrddc.com/event/eliza-mclamb/
+
+---
 ## 2026-09-14 — 18 new show(s)
 
 **IMP (9:30 Club / Anthem / Lincoln / Merriweather)**
