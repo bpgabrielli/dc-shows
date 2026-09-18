@@ -4,6 +4,27 @@ Each run prepends newly-detected shows here. Most recent at top.
 
 ---
 
+## 2026-09-18 — 12 new show(s)
+
+**Black Cat**
+- Flash Band — https://www.blackcatdc.com/shows/flash-band.html
+
+**IMP (9:30 Club / Anthem / Lincoln / Merriweather)**
+- Beirut 2 — https://impconcerts.com/event/beirut-2/
+- Claud And The Live Music — https://impconcerts.com/event/claud-and-the-live-music/
+- Hamilton Leithauser Rostam The Joint Tour — https://impconcerts.com/event/hamilton-leithauser-rostam-the-joint-tour/
+- Tall Heights Neptune 10 Year Anniversary Tour — https://impconcerts.com/event/tall-heights-neptune-10-year-anniversary-tour/
+- Valley Do You Need To Be Entertained Tour — https://impconcerts.com/event/valley-do-you-need-to-be-entertained-tour/
+
+**Union Stage Presents**
+- Flex La Factoria Demphra Makano — https://www.unionstagepresents.com/shows/flex-la-factoria-demphra-makano-09-oct
+- House Of Heavy — https://www.unionstagepresents.com/shows/house-of-heavy-09-oct
+- Saturday Morning Family Happy Hour The Great Zucchini — https://www.unionstagepresents.com/shows/saturday-morning-family-happy-hour-the-great-zucchini-10-oct
+- Six Foot Blonde Spit It Out Tour — https://www.unionstagepresents.com/shows/six-foot-blonde-spit-it-out-tour-09-oct
+- The Getaway Car — https://www.unionstagepresents.com/shows/the-getaway-car-09-oct
+- The Rest Is Politics U S The Battle For America Midterms Tour 2026 — https://www.unionstagepresents.com/shows/the-rest-is-politics-u-s-the-battle-for-america-midterms-tour-2026-09-oct
+
+---
 ## 2026-09-16 — 17 new show(s)
 
 **IMP (9:30 Club / Anthem / Lincoln / Merriweather)**
