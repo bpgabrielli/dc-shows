@@ -4,6 +4,28 @@ Each run prepends newly-detected shows here. Most recent at top.
 
 ---
 
+## 2026-09-21 — 15 new show(s)
+
+**IMP (9:30 Club / Anthem / Lincoln / Merriweather)**
+- Criminal Presents An Evening With Phoebe Judge — https://impconcerts.com/event/criminal-presents-an-evening-with-phoebe-judge/
+- Ninajirachis I Love My Computer And It Loves Me Tour — https://impconcerts.com/event/ninajirachis-i-love-my-computer-and-it-loves-me-tour/
+- Romare — https://impconcerts.com/event/romare/
+
+**Union Stage Presents**
+- An Intimate Evening With Tamar Braxton Friends — https://www.unionstagepresents.com/shows/an-intimate-evening-with-tamar-braxton-friends-11-oct
+- Bayonne The Filters Tour — https://www.unionstagepresents.com/shows/bayonne-the-filters-tour-10-oct
+- Ellis Paul — https://www.unionstagepresents.com/shows/ellis-paul-11-oct
+- Epik High 3 0 North American Tour — https://www.unionstagepresents.com/shows/epik-high-3-0-north-american-tour-10-oct
+- Goldcoast Ent Presents 2 Chainz — https://www.unionstagepresents.com/shows/goldcoast-ent-presents-2-chainz-12-oct
+- Great Lake Swimmers — https://www.unionstagepresents.com/shows/great-lake-swimmers-12-oct
+- Ida — https://www.unionstagepresents.com/shows/ida-12-oct
+- Lewis Ofman 50Kwtts North American Tour — https://www.unionstagepresents.com/shows/lewis-ofman-50kwtts-north-american-tour-10-oct
+- Magenta Wave — https://www.unionstagepresents.com/shows/magenta-wave-11-oct
+- Poly Diaz — https://www.unionstagepresents.com/shows/poly-diaz-11-oct
+- Shawn James Flew Too Close To The Sun Tour — https://www.unionstagepresents.com/shows/shawn-james-flew-too-close-to-the-sun-tour-11-oct
+- Token I M Leaving Soon — https://www.unionstagepresents.com/shows/token-i-m-leaving-soon-12-oct
+
+---
 ## 2026-09-18 — 12 new show(s)
 
 **Black Cat**
