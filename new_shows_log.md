@@ -4,6 +4,34 @@ Each run prepends newly-detected shows here. Most recent at top.
 
 ---
 
+## 2026-09-23 — 17 new show(s)
+
+**Black Cat**
+- Thao — https://www.blackcatdc.com/shows/thao.html
+
+**IMP (9:30 Club / Anthem / Lincoln / Merriweather)**
+- Bo Staloch The Too Big Too Big Tour — https://impconcerts.com/event/bo-staloch-the-too-big-too-big-tour/
+- Darkest Hour — https://impconcerts.com/event/darkest-hour/
+- Haiden Henderson The Dumblond Tour — https://impconcerts.com/event/haiden-henderson-the-dumblond-tour/
+- Nso Presents Dolly Partons Threads My Songs In Symphony — https://impconcerts.com/event/nso-presents-dolly-partons-threads-my-songs-in-symphony/
+- Rayland Baxter The True Violet Tour — https://impconcerts.com/event/rayland-baxter-the-true-violet-tour/
+- White Ford Bronco 2 — https://impconcerts.com/event/white-ford-bronco-2/
+
+**Union Stage Presents**
+- Club 520 Live Homecoming Edition Presented By Project 68 And Howard University S Cathy Hughes School Of Communications — https://www.unionstagepresents.com/shows/club-520-live-homecoming-edition-presented-by-project-68-and-howard-university-s-cathy-hughes-school-of-communications-14-oct
+- Dice — https://www.unionstagepresents.com/shows/dice-14-oct
+- Fred Eaglesmith — https://www.unionstagepresents.com/shows/fred-eaglesmith-14-oct
+- Garrison Starr — https://www.unionstagepresents.com/shows/garrison-starr-13-oct
+- Lauren Ash — https://www.unionstagepresents.com/shows/lauren-ash-13-oct
+- Wesley Joseph — https://www.unionstagepresents.com/shows/wesley-joseph-13-oct
+
+**Songbyrd Music House**
+- Devon Gabriella — https://songbyrddc.com/event/devon-gabriella/
+- Discord Theory — https://songbyrddc.com/event/discord-theory/
+- Slap Dragon — https://songbyrddc.com/event/slap-dragon/
+- This Is The Kit 2 — https://songbyrddc.com/event/this-is-the-kit-2/
+
+---
 ## 2026-09-21 — 15 new show(s)
 
 **IMP (9:30 Club / Anthem / Lincoln / Merriweather)**
