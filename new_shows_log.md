@@ -4,6 +4,30 @@ Each run prepends newly-detected shows here. Most recent at top.
 
 ---
 
+## 2026-09-25 — 13 new show(s)
+
+**Black Cat**
+- Upstaged — https://www.blackcatdc.com/shows/upstaged.html
+
+**IMP (9:30 Club / Anthem / Lincoln / Merriweather)**
+- Lizzy Mcalpine The Over Country Tour 2 — https://impconcerts.com/event/lizzy-mcalpine-the-over-country-tour-2/
+- Needtobreathe The Long Surrender Tour — https://impconcerts.com/event/needtobreathe-the-long-surrender-tour/
+
+**Union Stage Presents**
+- Bethel Music 2026 Tour — https://www.unionstagepresents.com/shows/bethel-music-2026-tour-15-oct
+- Boombox — https://www.unionstagepresents.com/shows/boombox-15-oct
+- Gettin Weir D Annual Bobby Birthday Tour The Ultimate Bob Weir Tribute — https://www.unionstagepresents.com/shows/gettin-weir-d-annual-bobby-birthday-tour-the-ultimate-bob-weir-tribute-15-oct
+- Lectures On Tap — https://www.unionstagepresents.com/shows/lectures-on-tap-08-oct
+- Philip Bowen — https://www.unionstagepresents.com/shows/philip-bowen-14-oct
+- Rob Has A Podcast Live — https://www.unionstagepresents.com/shows/rob-has-a-podcast-live-14-oct
+- The Rest Is Politics U S The Battle For America Midterms Tour 2026 09 Oct C192F — https://www.unionstagepresents.com/shows/the-rest-is-politics-u-s-the-battle-for-america-midterms-tour-2026-09-oct-c192f
+
+**Songbyrd Music House**
+- P E E — https://songbyrddc.com/event/p-e-e/
+- Stout — https://songbyrddc.com/event/stout/
+- Year Of The Knife — https://songbyrddc.com/event/year-of-the-knife/
+
+---
 ## 2026-09-23 — 17 new show(s)
 
 **Black Cat**
