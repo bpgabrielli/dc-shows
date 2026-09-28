@@ -4,6 +4,37 @@ Each run prepends newly-detected shows here. Most recent at top.
 
 ---
 
+## 2026-09-28 — 22 new show(s)
+
+**IMP (9:30 Club / Anthem / Lincoln / Merriweather)**
+- Jack Kays Jack Kays And His Band — https://impconcerts.com/event/jack-kays-jack-kays-and-his-band/
+- La Roux The Old Flames Tour — https://impconcerts.com/event/la-roux-the-old-flames-tour/
+- Pete Holmes — https://impconcerts.com/event/pete-holmes/
+- Riley Green Thats Just Me Tour — https://impconcerts.com/event/riley-green-thats-just-me-tour/
+
+**Union Stage Presents**
+- Benjamin Tod And The Inline Six 2026 Tour — https://www.unionstagepresents.com/shows/benjamin-tod-and-the-inline-six-2026-tour-16-oct
+- Broccoli City University And This Is Homecoming Present 102 Shots The Official Yardfest Afterparty — https://www.unionstagepresents.com/shows/broccoli-city-university-and-this-is-homecoming-present-102-shots-the-official-yardfest-afterparty-16-oct
+- Chasing Abbey — https://www.unionstagepresents.com/shows/chasing-abbey-16-oct
+- Eric Brace Thomm Jutz — https://www.unionstagepresents.com/shows/eric-brace-thomm-jutz-18-oct
+- Ian Mcconnell — https://www.unionstagepresents.com/shows/ian-mcconnell-18-oct
+- Jammin Java 25Th Anniversary Party And Concert Featuring The Brindley Brothers Reunion Special Guests — https://www.unionstagepresents.com/shows/jammin-java-25th-anniversary-party-and-concert-featuring-the-brindley-brothers-reunion-special-guests-17-oct
+- Julia Cole — https://www.unionstagepresents.com/shows/julia-cole-17-oct
+- Magoo — https://www.unionstagepresents.com/shows/magoo-17-oct
+- Phoebe Robinson Feral Fired Up — https://www.unionstagepresents.com/shows/phoebe-robinson-feral-fired-up-17-oct
+- Reggaefest — https://www.unionstagepresents.com/shows/reggaefest-17-oct
+- Slow Magic — https://www.unionstagepresents.com/shows/slow-magic-17-oct
+- Stephen Day The Self Titled Tour — https://www.unionstagepresents.com/shows/stephen-day-the-self-titled-tour-18-oct
+- The Fabulous Dialtones Rock And Dance Party — https://www.unionstagepresents.com/shows/the-fabulous-dialtones-rock-and-dance-party-16-oct
+- The Jury Experience The Deadly Boat Ride Will Washington Dc Deliver Justice — https://www.unionstagepresents.com/shows/the-jury-experience-the-deadly-boat-ride-will-washington-dc-deliver-justice-17-oct
+- The Jury Experience The Deadly Boat Ride Will Washington Dc Deliver Justice 17 Oct 88817 — https://www.unionstagepresents.com/shows/the-jury-experience-the-deadly-boat-ride-will-washington-dc-deliver-justice-17-oct-88817
+
+**Songbyrd Music House**
+- Hot Freaks — https://songbyrddc.com/event/hot-freaks/
+- Jeff The Brotherhood — https://songbyrddc.com/event/jeff-the-brotherhood/
+- Shaolin Jazz Can I Kick It Ft The Crow — https://songbyrddc.com/event/shaolin-jazz-can-i-kick-it-ft-the-crow/
+
+---
 ## 2026-09-25 — 13 new show(s)
 
 **Black Cat**
