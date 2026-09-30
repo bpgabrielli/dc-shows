@@ -4,6 +4,37 @@ Each run prepends newly-detected shows here. Most recent at top.
 
 ---
 
+## 2026-09-30 — 22 new show(s)
+
+**IMP (9:30 Club / Anthem / Lincoln / Merriweather)**
+- Cory Wong Featuring Dodie With Special Guest Prep — https://impconcerts.com/event/cory-wong-featuring-dodie-with-special-guest-prep/
+- Dc Flight Season Ticket Deposit — https://impconcerts.com/event/dc-flight-season-ticket-deposit/
+- Mei Semones — https://impconcerts.com/event/mei-semones/
+- Michael Shannon Jason Narducy And Friends Play R E M S Document — https://impconcerts.com/event/michael-shannon-jason-narducy-and-friends-play-r-e-m-s-document/
+- Steve Lacy Vip Upgrade Ticket Not Included — https://impconcerts.com/event/steve-lacy-vip-upgrade-ticket-not-included/
+- Twin Temple Doomed Lovers Tour — https://impconcerts.com/event/twin-temple-doomed-lovers-tour/
+- Wasia Project Nocturne Live 2027 — https://impconcerts.com/event/wasia-project-nocturne-live-2027/
+
+**Union Stage Presents**
+- An Evening With Eric Johanson — https://www.unionstagepresents.com/shows/an-evening-with-eric-johanson-20-oct
+- Free Oktoberfest Dance Party — https://www.unionstagepresents.com/shows/free-oktoberfest-dance-party-03-oct
+- L7 The Last Hurrah Tour 2026 — https://www.unionstagepresents.com/shows/l7-the-last-hurrah-tour-2026-21-oct
+- Salin — https://www.unionstagepresents.com/shows/salin-18-oct
+- Texas Is The Reason — https://www.unionstagepresents.com/shows/texas-is-the-reason-20-oct
+- The Bachelor Boys Band — https://www.unionstagepresents.com/shows/the-bachelor-boys-band-19-oct
+- The Band Feel — https://www.unionstagepresents.com/shows/the-band-feel-19-oct
+- This Day Live The Next Realignment Presented By The Charles F Kettering Foundation — https://www.unionstagepresents.com/shows/this-day-live-the-next-realignment-presented-by-the-charles-f-kettering-foundation-19-oct
+- Viaje Tropical With Tony Succar Mauricio Mesones Mimy Succar Y Kenyi Succar — https://www.unionstagepresents.com/shows/viaje-tropical-with-tony-succar-mauricio-mesones-mimy-succar-y-kenyi-succar-18-oct
+- Will Varley — https://www.unionstagepresents.com/shows/will-varley-21-oct
+
+**Songbyrd Music House**
+- Deceased 2 — https://songbyrddc.com/event/deceased-2/
+- Hank Heaven The Heaven On Earth Tour — https://songbyrddc.com/event/hank-heaven-the-heaven-on-earth-tour/
+- Kelsey Blackstone — https://songbyrddc.com/event/kelsey-blackstone/
+- Tara Clerkin Trio — https://songbyrddc.com/event/tara-clerkin-trio/
+- The Rb Club Discusses Protest Rb — https://songbyrddc.com/event/the-rb-club-discusses-protest-rb/
+
+---
 ## 2026-09-28 — 22 new show(s)
 
 **IMP (9:30 Club / Anthem / Lincoln / Merriweather)**
