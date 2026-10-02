@@ -4,6 +4,36 @@ Each run prepends newly-detected shows here. Most recent at top.
 
 ---
 
+## 2026-10-02 — 21 new show(s)
+
+**IMP (9:30 Club / Anthem / Lincoln / Merriweather)**
+- Carly Rae Jepsen Day And Night Tour — https://impconcerts.com/event/carly-rae-jepsen-day-and-night-tour/
+- Chelsea Cutler Is This The End Tour — https://impconcerts.com/event/chelsea-cutler-is-this-the-end-tour/
+- Chelsea Cutler Is This The End Tour 2 — https://impconcerts.com/event/chelsea-cutler-is-this-the-end-tour-2/
+- Fontaines D C — https://impconcerts.com/event/fontaines-d-c/
+- Greta Van Fleet Into The Beginning — https://impconcerts.com/event/greta-van-fleet-into-the-beginning/
+- Michael Shannon Jason Narducy And Friends Play R E M S Document 2 — https://impconcerts.com/event/michael-shannon-jason-narducy-and-friends-play-r-e-m-s-document-2/
+- Sucker For Love — https://impconcerts.com/event/sucker-for-love/
+- Thievery Corporation 2 — https://impconcerts.com/event/thievery-corporation-2/
+
+**Union Stage Presents**
+- Abbie Gamboa Have You Ever Looked Around Tour — https://www.unionstagepresents.com/shows/abbie-gamboa-have-you-ever-looked-around-tour-22-oct
+- Dallas Wax — https://www.unionstagepresents.com/shows/dallas-wax-21-oct
+- East Nash Grass — https://www.unionstagepresents.com/shows/east-nash-grass-22-oct
+- Elizabeth Nichols I Don T Kiss Tell I Kiss Tour — https://www.unionstagepresents.com/shows/elizabeth-nichols-i-don-t-kiss-tell-i-kiss-tour-23-oct
+- Low Cut Connie — https://www.unionstagepresents.com/shows/low-cut-connie-23-oct
+- Maddie Zahm Everything All The Time Tour — https://www.unionstagepresents.com/shows/maddie-zahm-everything-all-the-time-tour-23-oct
+- Marcus Samuelsson Back To Green — https://www.unionstagepresents.com/shows/marcus-samuelsson-back-to-green-21-oct
+- My Favorite Highway — https://www.unionstagepresents.com/shows/my-favorite-highway-22-oct
+- The Moth Grandslam — https://www.unionstagepresents.com/shows/the-moth-grandslam-23-oct
+- Tiana Major9 November Scorpio Tour — https://www.unionstagepresents.com/shows/tiana-major9-november-scorpio-tour-22-oct
+
+**Songbyrd Music House**
+- Brucebanhee — https://songbyrddc.com/event/brucebanhee/
+- Night Train 357 W Dumi Right Marc 2Ray — https://songbyrddc.com/event/night-train-357-w-dumi-right-marc-2ray/
+- Virg Album Release Show — https://songbyrddc.com/event/virg-album-release-show/
+
+---
 ## 2026-09-30 — 22 new show(s)
 
 **IMP (9:30 Club / Anthem / Lincoln / Merriweather)**
