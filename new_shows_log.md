@@ -4,6 +4,37 @@ Each run prepends newly-detected shows here. Most recent at top.
 
 ---
 
+## 2026-10-05 — 22 new show(s)
+
+**IMP (9:30 Club / Anthem / Lincoln / Merriweather)**
+- Bella Poarch Presents Picnic At The Cemetery Tour — https://impconcerts.com/event/bella-poarch-presents-picnic-at-the-cemetery-tour/
+- Flo Therapy At The Club Tour — https://impconcerts.com/event/flo-therapy-at-the-club-tour/
+- Lola Young Everything Begins — https://impconcerts.com/event/lola-young-everything-begins/
+
+**Union Stage Presents**
+- 2000 S Night — https://www.unionstagepresents.com/shows/2000-s-night-24-oct
+- An Evening With Oz Noy Trio Featuring Dave Weckl Brian Charette — https://www.unionstagepresents.com/shows/an-evening-with-oz-noy-trio-featuring-dave-weckl-brian-charette-26-oct
+- Big Little Sister Presents Afters — https://www.unionstagepresents.com/shows/big-little-sister-presents-afters-23-oct
+- Cupcakke — https://www.unionstagepresents.com/shows/cupcakke-25-oct
+- Dent May — https://www.unionstagepresents.com/shows/dent-may-25-oct
+- Dev Lemons Eat The Pavement Tour — https://www.unionstagepresents.com/shows/dev-lemons-eat-the-pavement-tour-28-oct
+- Doom Gong — https://www.unionstagepresents.com/shows/doom-gong-28-oct
+- Isabel Larosa Dollparts Tour — https://www.unionstagepresents.com/shows/isabel-larosa-dollparts-tour-26-oct
+- Jenna Davis — https://www.unionstagepresents.com/shows/jenna-davis-27-oct
+- Joanne Mcnally Pinotphile — https://www.unionstagepresents.com/shows/joanne-mcnally-pinotphile-28-oct
+- My Favorite Highway — https://www.unionstagepresents.com/shows/my-favorite-highway-24-oct
+- Oso Oso — https://www.unionstagepresents.com/shows/oso-oso-25-oct
+- Q Da Fool — https://www.unionstagepresents.com/shows/q-da-fool-24-oct
+- Raphael Ghanem Apresenta A Carne So Cai No Prato Do Vegano — https://www.unionstagepresents.com/shows/raphael-ghanem-apresenta-a-carne-so-cai-no-prato-do-vegano-26-oct
+- Rav — https://www.unionstagepresents.com/shows/rav-24-oct
+- Skilla Baby The Price Of Fame Tour — https://www.unionstagepresents.com/shows/skilla-baby-the-price-of-fame-tour-23-oct
+- The Kennedys Cd Release Maura S Birthday Party — https://www.unionstagepresents.com/shows/the-kennedys-cd-release-maura-s-birthday-party-25-oct
+- Welbilt Boogiehawg Reunion Show — https://www.unionstagepresents.com/shows/welbilt-boogiehawg-reunion-show-23-oct
+
+**Songbyrd Music House**
+- Keo — https://songbyrddc.com/event/keo/
+
+---
 ## 2026-10-02 — 21 new show(s)
 
 **IMP (9:30 Club / Anthem / Lincoln / Merriweather)**
