@@ -4,6 +4,41 @@ Each run prepends newly-detected shows here. Most recent at top.
 
 ---
 
+## 2026-10-07 — 24 new show(s)
+
+**Black Cat**
+- 454 — https://www.blackcatdc.com/shows/454.html
+- Gray Matter — https://www.blackcatdc.com/shows/gray-matter.html
+
+**IMP (9:30 Club / Anthem / Lincoln / Merriweather)**
+- Bianca Del Rio It Gets Bitter World Comedy Tour — https://impconcerts.com/event/bianca-del-rio-it-gets-bitter-world-comedy-tour/
+- Hans Williams — https://impconcerts.com/event/hans-williams/
+- Jess Williamson — https://impconcerts.com/event/jess-williamson/
+- Retro Joy — https://impconcerts.com/event/retro-joy/
+- Retro Joy 2 — https://impconcerts.com/event/retro-joy-2/
+- State Radio — https://impconcerts.com/event/state-radio/
+- The Holiday Show — https://impconcerts.com/event/the-holiday-show/
+- The Holiday Show 2 — https://impconcerts.com/event/the-holiday-show-2/
+- The Holiday Show 3 — https://impconcerts.com/event/the-holiday-show-3/
+- The Holiday Show 4 — https://impconcerts.com/event/the-holiday-show-4/
+- The Holiday Show 5 — https://impconcerts.com/event/the-holiday-show-5/
+- Vacations Pursuit Of Anything Tour — https://impconcerts.com/event/vacations-pursuit-of-anything-tour/
+
+**Union Stage Presents**
+- An Evening With Mike Dawes — https://www.unionstagepresents.com/shows/an-evening-with-mike-dawes-02-feb
+- Boy Harsher — https://www.unionstagepresents.com/shows/boy-harsher-30-oct
+- Car O Ween — https://www.unionstagepresents.com/shows/car-o-ween-29-oct
+- Charlene Kaye Diversity Shredder — https://www.unionstagepresents.com/shows/charlene-kaye-diversity-shredder-29-oct
+- Eivor — https://www.unionstagepresents.com/shows/eivor-29-oct
+- Harbour — https://www.unionstagepresents.com/shows/harbour-30-oct
+- Luke Kidgell — https://www.unionstagepresents.com/shows/luke-kidgell-29-oct
+- The Hustle 70S Disco Halloween — https://www.unionstagepresents.com/shows/the-hustle-70s-disco-halloween-30-oct
+
+**Songbyrd Music House**
+- Girl Ultra El Tour De Rrromeo — https://songbyrddc.com/event/girl-ultra-el-tour-de-rrromeo/
+- Star Moles — https://songbyrddc.com/event/star-moles/
+
+---
 ## 2026-10-05 — 22 new show(s)
 
 **IMP (9:30 Club / Anthem / Lincoln / Merriweather)**
