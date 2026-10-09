@@ -4,6 +4,24 @@ Each run prepends newly-detected shows here. Most recent at top.
 
 ---
 
+## 2026-10-09 — 9 new show(s)
+
+**IMP (9:30 Club / Anthem / Lincoln / Merriweather)**
+- Leon Bridges Presents The Happiness Anytime Tour — https://impconcerts.com/event/leon-bridges-presents-the-happiness-anytime-tour/
+- Remi Wolf — https://impconcerts.com/event/remi-wolf/
+
+**Union Stage Presents**
+- Club 1Bd Halloween Dc — https://www.unionstagepresents.com/shows/club-1bd-halloween-dc-31-oct
+- Femme Fatale — https://www.unionstagepresents.com/shows/femme-fatale-31-oct
+- Halloween Masquerade With Rocknoceros — https://www.unionstagepresents.com/shows/halloween-masquerade-with-rocknoceros-31-oct
+- Madds Buckley 31 Oct 03C88 — https://www.unionstagepresents.com/shows/madds-buckley-31-oct-03c88
+- Paledusk — https://www.unionstagepresents.com/shows/paledusk-31-oct
+- Promiscuous Halloween A Spooky 2000 S Club Bangers Throwbacks Party — https://www.unionstagepresents.com/shows/promiscuous-halloween-a-spooky-2000-s-club-bangers-throwbacks-party-31-oct
+- The Speaks Crash Boom Bang — https://www.unionstagepresents.com/shows/the-speaks-crash-boom-bang-31-oct
+
+_Note: could not check Songbyrd Music House this run._
+
+---
 ## 2026-10-07 — 24 new show(s)
 
 **Black Cat**
