@@ -4,6 +4,36 @@ Each run prepends newly-detected shows here. Most recent at top.
 
 ---
 
+## 2026-10-12 — 21 new show(s)
+
+**IMP (9:30 Club / Anthem / Lincoln / Merriweather)**
+- Lesley Ann Warren In My Own Little Corner — https://impconcerts.com/event/lesley-ann-warren-in-my-own-little-corner/
+- Ripe — https://impconcerts.com/event/ripe/
+
+**Union Stage Presents**
+- Allan Rayman Hotel Allan The 10 Year Anniversary Tour — https://www.unionstagepresents.com/shows/allan-rayman-hotel-allan-the-10-year-anniversary-tour-05-nov
+- An Afternoon With Rachel Levitin — https://www.unionstagepresents.com/shows/an-afternoon-with-rachel-levitin-01-nov
+- Bryan Andrews — https://www.unionstagepresents.com/shows/bryan-andrews-05-nov
+- Cem Adrian — https://www.unionstagepresents.com/shows/cem-adrian-04-nov
+- Duff Goldman Presents The Tao Of Duff — https://www.unionstagepresents.com/shows/duff-goldman-presents-the-tao-of-duff-02-nov
+- Eva Ayllon With Special Guest Daniela Darcourt — https://www.unionstagepresents.com/shows/eva-ayllon-with-special-guest-daniela-darcourt-01-nov
+- Frank Maza Featuring Javier Limon Present Back Then — https://www.unionstagepresents.com/shows/frank-maza-featuring-javier-limon-present-back-then-02-nov
+- Inoculous — https://www.unionstagepresents.com/shows/inoculous-03-nov
+- Josh Rouse — https://www.unionstagepresents.com/shows/josh-rouse-05-nov
+- Paige Fish — https://www.unionstagepresents.com/shows/paige-fish-04-nov
+- Prayers No Tengo Calma Tour 2026 — https://www.unionstagepresents.com/shows/prayers-no-tengo-calma-tour-2026-01-nov
+- Q — https://www.unionstagepresents.com/shows/q-05-nov
+- Rainao — https://www.unionstagepresents.com/shows/rainao-01-nov
+- Silly Goose The Set It Off Tour — https://www.unionstagepresents.com/shows/silly-goose-the-set-it-off-tour-03-nov
+- The Alternate Routes — https://www.unionstagepresents.com/shows/the-alternate-routes-04-nov
+- The Nth Power — https://www.unionstagepresents.com/shows/the-nth-power-01-nov
+
+**Songbyrd Music House**
+- Safety Bear W Mx Mundy Glorian — https://songbyrddc.com/event/safety-bear-w-mx-mundy-glorian/
+- Songbyrd Music Trivia Night Merry Thanxmas Edition — https://songbyrddc.com/event/songbyrd-music-trivia-night-merry-thanxmas-edition/
+- Sunshine Benzi Miss Bellum Tour — https://songbyrddc.com/event/sunshine-benzi-miss-bellum-tour/
+
+---
 ## 2026-10-09 — 9 new show(s)
 
 **IMP (9:30 Club / Anthem / Lincoln / Merriweather)**
