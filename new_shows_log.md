@@ -4,6 +4,39 @@ Each run prepends newly-detected shows here. Most recent at top.
 
 ---
 
+## 2026-10-14 — 22 new show(s)
+
+**Black Cat**
+- Trivia — https://www.blackcatdc.com/shows/trivia.html
+
+**IMP (9:30 Club / Anthem / Lincoln / Merriweather)**
+- Cleopatrick — https://impconcerts.com/event/cleopatrick/
+- Danielle Ponder — https://impconcerts.com/event/danielle-ponder/
+- Giggly Squad The Gels Gehl Tour — https://impconcerts.com/event/giggly-squad-the-gels-gehl-tour/
+- John Splithoff 2027 Tour — https://impconcerts.com/event/john-splithoff-2027-tour/
+- Matchbox Twenty 30 — https://impconcerts.com/event/matchbox-twenty-30/
+- National Symphony Orchestra Presents A Cody Fry Christmas — https://impconcerts.com/event/national-symphony-orchestra-presents-a-cody-fry-christmas/
+- National Symphony Orchestra Presents Home Alone In Concert — https://impconcerts.com/event/national-symphony-orchestra-presents-home-alone-in-concert/
+- Richard Thompson Band — https://impconcerts.com/event/richard-thompson-band/
+- The Pietasters Annual Holiday Show — https://impconcerts.com/event/the-pietasters-annual-holiday-show/
+- Winona Fighter Is Brutal Extremely Underrated The Tour — https://impconcerts.com/event/winona-fighter-is-brutal-extremely-underrated-the-tour/
+
+**Union Stage Presents**
+- Best Friends Podcast Sasheer Zamata Nicole Byer — https://www.unionstagepresents.com/shows/best-friends-podcast-sasheer-zamata-nicole-byer-07-nov
+- Carsie Blanton — https://www.unionstagepresents.com/shows/carsie-blanton-06-nov
+- Lovett Or Leave It Live From Dc — https://www.unionstagepresents.com/shows/lovett-or-leave-it-live-from-dc-06-nov
+- Still Cool After 40 Years James Madison High School Class Of 1986 Reunion — https://www.unionstagepresents.com/shows/still-cool-after-40-years-james-madison-high-school-class-of-1986-reunion-07-nov
+- Strict Scrutiny Live From Dc — https://www.unionstagepresents.com/shows/strict-scrutiny-live-from-dc-06-nov
+- Yana The Feelings Are Forever Tour — https://www.unionstagepresents.com/shows/yana-the-feelings-are-forever-tour-06-nov
+
+**Songbyrd Music House**
+- Hope Or Heartbreak Ft Gabrielle Hights Kyaira — https://songbyrddc.com/event/hope-or-heartbreak-ft-gabrielle-hights-kyaira/
+- Jimi Hendrix Birthday Bash W The Eli Cook Band On The Bus Brassie — https://songbyrddc.com/event/jimi-hendrix-birthday-bash-w-the-eli-cook-band-on-the-bus-brassie/
+- Ken Yates — https://songbyrddc.com/event/ken-yates/
+- Tracey Nelson — https://songbyrddc.com/event/tracey-nelson/
+- We Three She Left For America Tour — https://songbyrddc.com/event/we-three-she-left-for-america-tour/
+
+---
 ## 2026-10-12 — 21 new show(s)
 
 **IMP (9:30 Club / Anthem / Lincoln / Merriweather)**
