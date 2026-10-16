@@ -4,6 +4,26 @@ Each run prepends newly-detected shows here. Most recent at top.
 
 ---
 
+## 2026-10-16 — 11 new show(s)
+
+**IMP (9:30 Club / Anthem / Lincoln / Merriweather)**
+- Andrew Deerins Christmas Spectacular — https://impconcerts.com/event/andrew-deerins-christmas-spectacular/
+- Fonseca Antes Que El Tiempo Se Vaya Tour — https://impconcerts.com/event/fonseca-antes-que-el-tiempo-se-vaya-tour/
+- Improvised Shakespeare 2 — https://impconcerts.com/event/improvised-shakespeare-2/
+
+**Union Stage Presents**
+- Akeem Ali The Texture Tour — https://www.unionstagepresents.com/shows/akeem-ali-the-texture-tour-08-nov
+- Basia Bulat — https://www.unionstagepresents.com/shows/basia-bulat-07-nov
+- Dc Moth Storyslam Home For The Holidays — https://www.unionstagepresents.com/shows/dc-moth-storyslam-home-for-the-holidays-09-nov
+- Free Halloween Daytime Dance Party W Dj Sean Chappell — https://www.unionstagepresents.com/shows/free-halloween-daytime-dance-party-w-dj-sean-chappell-31-oct
+- Rock For Schools Ii A Benefit For Educate Fairfax — https://www.unionstagepresents.com/shows/rock-for-schools-ii-a-benefit-for-educate-fairfax-08-nov
+- Scarface Birthday Concert Feat Devin The Dude — https://www.unionstagepresents.com/shows/scarface-birthday-concert-feat-devin-the-dude-07-nov
+- The Innocence Mission — https://www.unionstagepresents.com/shows/the-innocence-mission-07-nov
+- Unofficial Geese Afterparty W Seven Teller — https://www.unionstagepresents.com/shows/unofficial-geese-afterparty-w-seven-teller-06-nov
+
+_Note: could not check Songbyrd Music House this run._
+
+---
 ## 2026-10-14 — 22 new show(s)
 
 **Black Cat**
