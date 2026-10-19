@@ -4,6 +4,38 @@ Each run prepends newly-detected shows here. Most recent at top.
 
 ---
 
+## 2026-10-19 — 23 new show(s)
+
+**IMP (9:30 Club / Anthem / Lincoln / Merriweather)**
+- Alex Sampson — https://impconcerts.com/event/alex-sampson/
+- An Evening With Cg5 — https://impconcerts.com/event/an-evening-with-cg5/
+- The Wombats A Guide To Love Loss And Desperation 20Th Anniversary — https://impconcerts.com/event/the-wombats-a-guide-to-love-loss-and-desperation-20th-anniversary/
+- Tinashe The Show Must Go On — https://impconcerts.com/event/tinashe-the-show-must-go-on/
+- Tommy Lefroy — https://impconcerts.com/event/tommy-lefroy/
+- Zach Seabaugh — https://impconcerts.com/event/zach-seabaugh/
+
+**Union Stage Presents**
+- Aj Lee Blue Summit — https://www.unionstagepresents.com/shows/aj-lee-blue-summit-13-nov
+- Boston Manor — https://www.unionstagepresents.com/shows/boston-manor-11-nov
+- Franni Cash Here I Am Tour 2026 — https://www.unionstagepresents.com/shows/franni-cash-here-i-am-tour-2026-09-nov
+- Giles Corey — https://www.unionstagepresents.com/shows/giles-corey-12-nov
+- Maya De Vitry — https://www.unionstagepresents.com/shows/maya-de-vitry-12-nov
+- Modern Alibi — https://www.unionstagepresents.com/shows/modern-alibi-11-nov
+- New Constellations It Comes In Waves Tour — https://www.unionstagepresents.com/shows/new-constellations-it-comes-in-waves-tour-10-nov
+- Rookiez Vetz Szn 1 Veteran S Day Beat Battle — https://www.unionstagepresents.com/shows/rookiez-vetz-szn-1-veteran-s-day-beat-battle-10-nov
+- Sarah Hester Ross Serving — https://www.unionstagepresents.com/shows/sarah-hester-ross-serving-13-nov
+- Sober Sessions Presents Songs That Saved My Life A Sober Emo Pop Punk Sing Along — https://www.unionstagepresents.com/shows/sober-sessions-presents-songs-that-saved-my-life-a-sober-emo-pop-punk-sing-along-10-nov
+- Sweeping Promises — https://www.unionstagepresents.com/shows/sweeping-promises-13-nov
+- The Blasting Company Plays Over The Garden Wall — https://www.unionstagepresents.com/shows/the-blasting-company-plays-over-the-garden-wall-11-nov
+- The Over Caffeinated Under Stimulated Tour — https://www.unionstagepresents.com/shows/the-over-caffeinated-under-stimulated-tour-11-nov
+- Willi Carlisle The Universal Bubba Tour — https://www.unionstagepresents.com/shows/willi-carlisle-the-universal-bubba-tour-12-nov
+
+**Songbyrd Music House**
+- Afrodesi Dc Ft Mr Saj Friends — https://songbyrddc.com/event/afrodesi-dc-ft-mr-saj-friends/
+- Foxtails — https://songbyrddc.com/event/foxtails/
+- Helena Deland 2 — https://songbyrddc.com/event/helena-deland-2/
+
+---
 ## 2026-10-16 — 11 new show(s)
 
 **IMP (9:30 Club / Anthem / Lincoln / Merriweather)**
