@@ -4,6 +4,39 @@ Each run prepends newly-detected shows here. Most recent at top.
 
 ---
 
+## 2026-10-21 — 24 new show(s)
+
+**IMP (9:30 Club / Anthem / Lincoln / Merriweather)**
+- Caroline Rose Uncle Carols World Of Fun Tour — https://impconcerts.com/event/caroline-rose-uncle-carols-world-of-fun-tour/
+- Chvrches — https://impconcerts.com/event/chvrches/
+- Clap Your Hands Say Yeah — https://impconcerts.com/event/clap-your-hands-say-yeah/
+- Jersey — https://impconcerts.com/event/jersey/
+- Klangkarussell Live Americas 2027 Tour — https://impconcerts.com/event/klangkarussell-live-americas-2027-tour/
+- Lambrini Girls No Refunds Tour — https://impconcerts.com/event/lambrini-girls-no-refunds-tour/
+- Noseda Ehnes — https://impconcerts.com/event/noseda-ehnes/
+- Noseda Ehnes 2 — https://impconcerts.com/event/noseda-ehnes-2/
+- Now Clap Bob The Drag Queens On Tour — https://impconcerts.com/event/now-clap-bob-the-drag-queens-on-tour/
+- Sienna Spiro My House Tour Extended — https://impconcerts.com/event/sienna-spiro-my-house-tour-extended/
+- Silverada — https://impconcerts.com/event/silverada/
+- The Sheepdogs Out All Night Tour — https://impconcerts.com/event/the-sheepdogs-out-all-night-tour/
+- Vincent Lima — https://impconcerts.com/event/vincent-lima/
+- Yendry — https://impconcerts.com/event/yendry/
+
+**Union Stage Presents**
+- Adam Ezra Group — https://www.unionstagepresents.com/shows/adam-ezra-group-14-nov
+- Charlie Parr — https://www.unionstagepresents.com/shows/charlie-parr-13-nov
+- El Cousteau — https://www.unionstagepresents.com/shows/el-cousteau-07-nov
+- Joy Oladokun The Heavy Things Tour — https://www.unionstagepresents.com/shows/joy-oladokun-the-heavy-things-tour-13-nov
+- Satisfaction 2010 2017 Edm Bangers All Night Long — https://www.unionstagepresents.com/shows/satisfaction-2010-2017-edm-bangers-all-night-long-13-nov
+
+**Songbyrd Music House**
+- An Evening With Dan Campbell — https://songbyrddc.com/event/an-evening-with-dan-campbell/
+- Caiola Thomas Lavine — https://songbyrddc.com/event/caiola-thomas-lavine/
+- Rikas North America 2027 — https://songbyrddc.com/event/rikas-north-america-2027/
+- Sarah Julia — https://songbyrddc.com/event/sarah-julia/
+- The Rb Club Discusses The Year In Rb 1996 — https://songbyrddc.com/event/the-rb-club-discusses-the-year-in-rb-1996/
+
+---
 ## 2026-10-19 — 23 new show(s)
 
 **IMP (9:30 Club / Anthem / Lincoln / Merriweather)**
