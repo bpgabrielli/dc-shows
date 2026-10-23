@@ -4,6 +4,32 @@ Each run prepends newly-detected shows here. Most recent at top.
 
 ---
 
+## 2026-10-23 — 17 new show(s)
+
+**IMP (9:30 Club / Anthem / Lincoln / Merriweather)**
+- 2Hollis — https://impconcerts.com/event/2hollis/
+- Ashe The Girl Of Your Dreams Tour — https://impconcerts.com/event/ashe-the-girl-of-your-dreams-tour/
+- Feeble Little Horse Bitknot Tour 2 — https://impconcerts.com/event/feeble-little-horse-bitknot-tour-2/
+- Interpol — https://impconcerts.com/event/interpol/
+- Lake Street Dive — https://impconcerts.com/event/lake-street-dive/
+- Tate Butts — https://impconcerts.com/event/tate-butts/
+
+**Union Stage Presents**
+- Ax And The Hatchetmen The Late Checkout Tour 2026 — https://www.unionstagepresents.com/shows/ax-and-the-hatchetmen-the-late-checkout-tour-2026-14-nov
+- Late Night Thoughts Days Like This Tour — https://www.unionstagepresents.com/shows/late-night-thoughts-days-like-this-tour-15-nov
+- Madre Cumbia Los Gaiteros De San Jacinto Con Fruko Y Carmelo Torres — https://www.unionstagepresents.com/shows/madre-cumbia-los-gaiteros-de-san-jacinto-con-fruko-y-carmelo-torres-15-nov
+- Pi Erre Bourne Made In Paris — https://www.unionstagepresents.com/shows/pi-erre-bourne-made-in-paris-15-nov
+- The Capital Vintage Show — https://www.unionstagepresents.com/shows/the-capital-vintage-show-15-nov
+- The Capital Vintage Show 15 Nov C97E2 — https://www.unionstagepresents.com/shows/the-capital-vintage-show-15-nov-c97e2
+- Thoughts On Bowling — https://www.unionstagepresents.com/shows/thoughts-on-bowling-15-nov
+- Weatherday Hornet Disaster Tour 2026 — https://www.unionstagepresents.com/shows/weatherday-hornet-disaster-tour-2026-14-nov
+- White Ford Bronco Dc S All 90S Band — https://www.unionstagepresents.com/shows/white-ford-bronco-dc-s-all-90s-band-14-nov
+- Why — https://www.unionstagepresents.com/shows/why-15-nov
+
+**Songbyrd Music House**
+- Teri Tobins Home For The Holidays Experience Dc Edition — https://songbyrddc.com/event/teri-tobins-home-for-the-holidays-experience-dc-edition/
+
+---
 ## 2026-10-21 — 24 new show(s)
 
 **IMP (9:30 Club / Anthem / Lincoln / Merriweather)**
