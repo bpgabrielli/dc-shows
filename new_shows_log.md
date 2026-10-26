@@ -4,6 +4,35 @@ Each run prepends newly-detected shows here. Most recent at top.
 
 ---
 
+## 2026-10-26 — 20 new show(s)
+
+**IMP (9:30 Club / Anthem / Lincoln / Merriweather)**
+- Bunt — https://impconcerts.com/event/bunt/
+- Destroy Boys — https://impconcerts.com/event/destroy-boys/
+- Dogpark — https://impconcerts.com/event/dogpark/
+- Gus Dapperton 4 Dear Life Tour — https://impconcerts.com/event/gus-dapperton-4-dear-life-tour/
+- Haken In A Fever Dream Tour — https://impconcerts.com/event/haken-in-a-fever-dream-tour/
+- The National Symphony Orchestra Presents The Muppet Christmas Carol — https://impconcerts.com/event/the-national-symphony-orchestra-presents-the-muppet-christmas-carol/
+
+**Union Stage Presents**
+- Blitzkid — https://www.unionstagepresents.com/shows/blitzkid-19-nov
+- Coral Bank Hollow — https://www.unionstagepresents.com/shows/coral-bank-hollow-19-nov
+- Flowersforpersephone — https://www.unionstagepresents.com/shows/flowersforpersephone-16-nov
+- Francis Of Delirium — https://www.unionstagepresents.com/shows/francis-of-delirium-18-nov
+- Gene — https://www.unionstagepresents.com/shows/gene-19-nov
+- Jojo The High Road 20 Years Unplugged — https://www.unionstagepresents.com/shows/jojo-the-high-road-20-years-unplugged-16-nov
+- Michael Mcdermott — https://www.unionstagepresents.com/shows/michael-mcdermott-20-nov
+- Nick Moss Band — https://www.unionstagepresents.com/shows/nick-moss-band-17-nov
+- Paula Cole This Fire 30 — https://www.unionstagepresents.com/shows/paula-cole-this-fire-30-19-nov
+- The Bends If You Insist Tour — https://www.unionstagepresents.com/shows/the-bends-if-you-insist-tour-17-nov
+- The Pineapple Thief Far And Wide Tour 2026 — https://www.unionstagepresents.com/shows/the-pineapple-thief-far-and-wide-tour-2026-17-nov
+- The Suitcase Junket — https://www.unionstagepresents.com/shows/the-suitcase-junket-18-nov
+- Yaelokre — https://www.unionstagepresents.com/shows/yaelokre-18-nov
+
+**Songbyrd Music House**
+- T 3 Holiday Harmonies Tour — https://songbyrddc.com/event/t-3-holiday-harmonies-tour/
+
+---
 ## 2026-10-23 — 17 new show(s)
 
 **IMP (9:30 Club / Anthem / Lincoln / Merriweather)**
