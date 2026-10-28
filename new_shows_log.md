@@ -4,6 +4,28 @@ Each run prepends newly-detected shows here. Most recent at top.
 
 ---
 
+## 2026-10-28 — 13 new show(s)
+
+**IMP (9:30 Club / Anthem / Lincoln / Merriweather)**
+- Dillom — https://impconcerts.com/event/dillom/
+- Greensky Bluegrass With Clay Street Unit — https://impconcerts.com/event/greensky-bluegrass-with-clay-street-unit/
+- Hum — https://impconcerts.com/event/hum/
+- Katherine Li 2027 Tour — https://impconcerts.com/event/katherine-li-2027-tour/
+- Mat Kearney Hanging By A Heartstring Tour — https://impconcerts.com/event/mat-kearney-hanging-by-a-heartstring-tour/
+- Mersiv Nostalgia Tour — https://impconcerts.com/event/mersiv-nostalgia-tour/
+- Penelope Road — https://impconcerts.com/event/penelope-road/
+- Susannah Joffe — https://impconcerts.com/event/susannah-joffe/
+- Temper City Self Aware Tour — https://impconcerts.com/event/temper-city-self-aware-tour/
+
+**Union Stage Presents**
+- Caroline — https://www.unionstagepresents.com/shows/caroline-20-nov
+- Dustin Ross — https://www.unionstagepresents.com/shows/dustin-ross-20-nov
+- Lavender Velvet — https://www.unionstagepresents.com/shows/lavender-velvet-20-nov
+
+**Songbyrd Music House**
+- Worldpeace Dmt — https://songbyrddc.com/event/worldpeace-dmt/
+
+---
 ## 2026-10-26 — 20 new show(s)
 
 **IMP (9:30 Club / Anthem / Lincoln / Merriweather)**
