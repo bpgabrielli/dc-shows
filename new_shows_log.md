@@ -4,6 +4,28 @@ Each run prepends newly-detected shows here. Most recent at top.
 
 ---
 
+## 2026-10-30 — 11 new show(s)
+
+**Black Cat**
+- Rock N Shop — https://www.blackcatdc.com/shows/rock-n-shop.html
+
+**IMP (9:30 Club / Anthem / Lincoln / Merriweather)**
+- The 30 Party Millennial Dance Night — https://impconcerts.com/event/the-30-party-millennial-dance-night/
+- Will Linley — https://impconcerts.com/event/will-linley/
+
+**Union Stage Presents**
+- Freestyle Dansfit — https://www.unionstagepresents.com/shows/freestyle-dansfit-21-nov
+- Fruition — https://www.unionstagepresents.com/shows/fruition-21-nov
+- Gauri B Years In The Breaking — https://www.unionstagepresents.com/shows/gauri-b-years-in-the-breaking-21-nov
+- Gw Law Bands — https://www.unionstagepresents.com/shows/gw-law-bands-20-nov
+- Liana Flores — https://www.unionstagepresents.com/shows/liana-flores-21-nov
+- Nacho Redondo Terapia De Grupo — https://www.unionstagepresents.com/shows/nacho-redondo-terapia-de-grupo-21-nov
+
+**Songbyrd Music House**
+- Eyehategod 2 — https://songbyrddc.com/event/eyehategod-2/
+- The Montaines — https://songbyrddc.com/event/the-montaines/
+
+---
 ## 2026-10-28 — 13 new show(s)
 
 **IMP (9:30 Club / Anthem / Lincoln / Merriweather)**
