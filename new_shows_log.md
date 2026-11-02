@@ -4,6 +4,38 @@ Each run prepends newly-detected shows here. Most recent at top.
 
 ---
 
+## 2026-11-02 — 23 new show(s)
+
+**IMP (9:30 Club / Anthem / Lincoln / Merriweather)**
+- Boy Throbs Real Tour — https://impconcerts.com/event/boy-throbs-real-tour/
+- Glee Night — https://impconcerts.com/event/glee-night/
+- The Castellows — https://impconcerts.com/event/the-castellows/
+- Tove Lo — https://impconcerts.com/event/tove-lo/
+
+**Union Stage Presents**
+- Broadway Rave — https://www.unionstagepresents.com/shows/broadway-rave-21-nov
+- Candlelight The Best Of Hans Zimmer — https://www.unionstagepresents.com/shows/candlelight-the-best-of-hans-zimmer-28-nov
+- Colby Acuff — https://www.unionstagepresents.com/shows/colby-acuff-22-nov
+- Crazy Chester A Very Carrboro Tribute To The Band The Last Waltz 50Th Anniversary Tour W Jp Hudson — https://www.unionstagepresents.com/shows/crazy-chester-a-very-carrboro-tribute-to-the-band-the-last-waltz-50th-anniversary-tour-w-jp-hudson-27-nov
+- First To Eleven — https://www.unionstagepresents.com/shows/first-to-eleven-14-nov
+- Folk Night Out — https://www.unionstagepresents.com/shows/folk-night-out-27-nov
+- Ghostwoman — https://www.unionstagepresents.com/shows/ghostwoman-23-nov
+- Grits Eggs Podcast Coming Thru America Tour — https://www.unionstagepresents.com/shows/grits-eggs-podcast-coming-thru-america-tour-22-nov
+- Jon Tyler Wiley His Virginia Choir — https://www.unionstagepresents.com/shows/jon-tyler-wiley-his-virginia-choir-22-nov
+- Liim Le Monde Est A Nous — https://www.unionstagepresents.com/shows/liim-le-monde-est-a-nous-28-nov
+- Mark Williams And Friends Thanksgiving Weekend — https://www.unionstagepresents.com/shows/mark-williams-and-friends-thanksgiving-weekend-28-nov
+- Po Up Live Game Show — https://www.unionstagepresents.com/shows/po-up-live-game-show-24-nov
+- Sina Bathaie White Lotus World Tour Back Together — https://www.unionstagepresents.com/shows/sina-bathaie-white-lotus-world-tour-back-together-24-nov
+- Toosii — https://www.unionstagepresents.com/shows/toosii-23-nov
+- Worst Party Ever X Equipment — https://www.unionstagepresents.com/shows/worst-party-ever-x-equipment-22-nov
+
+**Songbyrd Music House**
+- Alfie Jukes Funny Little Feeling Tour — https://songbyrddc.com/event/alfie-jukes-funny-little-feeling-tour/
+- Cloud Nothings — https://songbyrddc.com/event/cloud-nothings/
+- Shaolin Jazz Can I Kick It Ft Ricochet — https://songbyrddc.com/event/shaolin-jazz-can-i-kick-it-ft-ricochet/
+- Trappers Delight Holiday Comedy Series — https://songbyrddc.com/event/trappers-delight-holiday-comedy-series/
+
+---
 ## 2026-10-30 — 11 new show(s)
 
 **Black Cat**
