@@ -4,6 +4,27 @@ Each run prepends newly-detected shows here. Most recent at top.
 
 ---
 
+## 2026-11-04 — 10 new show(s)
+
+**Black Cat**
+- K Pop — https://www.blackcatdc.com/shows/k-pop.html
+- Knapsack — https://www.blackcatdc.com/shows/knapsack.html
+
+**IMP (9:30 Club / Anthem / Lincoln / Merriweather)**
+- Charlotte Adigery Bolis Pupul Mainland Madinina — https://impconcerts.com/event/charlotte-adigery-bolis-pupul-mainland-madinina/
+- Galdive Rum Gold A Friend Tour — https://impconcerts.com/event/galdive-rum-gold-a-friend-tour/
+- Man Woman Chainsaw — https://impconcerts.com/event/man-woman-chainsaw/
+
+**Union Stage Presents**
+- 2000 S Rave — https://www.unionstagepresents.com/shows/2000-s-rave-28-nov
+- 6Th Annual Get In The Mood With Laura Tsaggaris — https://www.unionstagepresents.com/shows/6th-annual-get-in-the-mood-with-laura-tsaggaris-29-nov
+- Candlelight Tribute To Whitney Houston — https://www.unionstagepresents.com/shows/candlelight-tribute-to-whitney-houston-28-nov
+- Leanna Firestone — https://www.unionstagepresents.com/shows/leanna-firestone-29-nov
+
+**Songbyrd Music House**
+- Lydia Loveless — https://songbyrddc.com/event/lydia-loveless/
+
+---
 ## 2026-11-02 — 23 new show(s)
 
 **IMP (9:30 Club / Anthem / Lincoln / Merriweather)**
