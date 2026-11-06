@@ -4,6 +4,27 @@ Each run prepends newly-detected shows here. Most recent at top.
 
 ---
 
+## 2026-11-06 — 12 new show(s)
+
+**IMP (9:30 Club / Anthem / Lincoln / Merriweather)**
+- Conversations With Nick Cave — https://impconcerts.com/event/conversations-with-nick-cave/
+- Hermanos Gutierrez — https://impconcerts.com/event/hermanos-gutierrez/
+- Lawrence — https://impconcerts.com/event/lawrence/
+
+**Union Stage Presents**
+- 80 S British Invasion Feat Dj D — https://www.unionstagepresents.com/shows/80-s-british-invasion-feat-dj-d-20-nov
+- E Lynn Harris Ashford Simpson Invisible Life The Musical World Premiere — https://www.unionstagepresents.com/shows/e-lynn-harris-ashford-simpson-invisible-life-the-musical-world-premiere-01-dec
+- E Lynn Harris Ashford Simpson Invisible Life The Musical World Premiere — https://www.unionstagepresents.com/shows/e-lynn-harris-ashford-simpson-invisible-life-the-musical-world-premiere-30-nov
+- Kate Voegele Then Now Tour — https://www.unionstagepresents.com/shows/kate-voegele-then-now-tour-01-dec
+- Laya Lipstick N Leather — https://www.unionstagepresents.com/shows/laya-lipstick-n-leather-01-dec
+- Second Act Record Release Show — https://www.unionstagepresents.com/shows/second-act-record-release-show-29-nov
+- Yuki Chiba First North America Headline Tour — https://www.unionstagepresents.com/shows/yuki-chiba-first-north-america-headline-tour-30-nov
+
+**Songbyrd Music House**
+- El Da Sensei Of Artifacts Ft Dj Mr Len Of Company Flow — https://songbyrddc.com/event/el-da-sensei-of-artifacts-ft-dj-mr-len-of-company-flow/
+- Spirit Possession — https://songbyrddc.com/event/spirit-possession/
+
+---
 ## 2026-11-04 — 10 new show(s)
 
 **Black Cat**
