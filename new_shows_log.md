@@ -4,6 +4,39 @@ Each run prepends newly-detected shows here. Most recent at top.
 
 ---
 
+## 2026-11-09 — 24 new show(s)
+
+**IMP (9:30 Club / Anthem / Lincoln / Merriweather)**
+- Dashboard Confessional Unplugged 25Th Anniversary Tour — https://impconcerts.com/event/dashboard-confessional-unplugged-25th-anniversary-tour/
+- Dumb Nathan Fielder Rave — https://impconcerts.com/event/dumb-nathan-fielder-rave/
+- Dylan Marlowe — https://impconcerts.com/event/dylan-marlowe/
+- Getdown Services — https://impconcerts.com/event/getdown-services/
+- Mc4D — https://impconcerts.com/event/mc4d/
+- Noah Rinker — https://impconcerts.com/event/noah-rinker/
+- Royal Blood North America 2027 — https://impconcerts.com/event/royal-blood-north-america-2027/
+- Silversun Pickups Tenterhooks Tour — https://impconcerts.com/event/silversun-pickups-tenterhooks-tour/
+
+**Union Stage Presents**
+- A Not So Silent Night — https://www.unionstagepresents.com/shows/a-not-so-silent-night-03-dec
+- Concrete Jungle Sessions — https://www.unionstagepresents.com/shows/concrete-jungle-sessions-18-nov
+- Dc Moth Storyslam Anything Goes — https://www.unionstagepresents.com/shows/dc-moth-storyslam-anything-goes-03-dec
+- Dj Golden Hour Tribute To Demon Hunters Demon Hunters Soundtrack Trivia For Prizes And A Sing Along For Kids — https://www.unionstagepresents.com/shows/dj-golden-hour-tribute-to-demon-hunters-demon-hunters-soundtrack-trivia-for-prizes-and-a-sing-along-for-kids-05-dec
+- Felukah Hibiskiss Tour — https://www.unionstagepresents.com/shows/felukah-hibiskiss-tour-04-dec
+- Freestyle Dansfit — https://www.unionstagepresents.com/shows/freestyle-dansfit-05-dec
+- Liz Longley With Special Guests The Young Fables The Holiday Fuss Tour — https://www.unionstagepresents.com/shows/liz-longley-with-special-guests-the-young-fables-the-holiday-fuss-tour-04-dec
+- Supersonic Oasis Tribute — https://www.unionstagepresents.com/shows/supersonic-oasis-tribute-04-dec
+- The Mainliners — https://www.unionstagepresents.com/shows/the-mainliners-05-dec
+- Upon This Rock — https://www.unionstagepresents.com/shows/upon-this-rock-03-dec
+- Venna — https://www.unionstagepresents.com/shows/venna-04-dec
+
+**Songbyrd Music House**
+- Corduroy Cadets Live In Concert — https://songbyrddc.com/event/corduroy-cadets-live-in-concert/
+- Hotel Mira — https://songbyrddc.com/event/hotel-mira/
+- Sydney Ross Mitchell The Veil Is Thinner On Tour — https://songbyrddc.com/event/sydney-ross-mitchell-the-veil-is-thinner-on-tour/
+- The Body Cel Genesis — https://songbyrddc.com/event/the-body-cel-genesis/
+- Ulrika Spacek — https://songbyrddc.com/event/ulrika-spacek/
+
+---
 ## 2026-11-06 — 12 new show(s)
 
 **IMP (9:30 Club / Anthem / Lincoln / Merriweather)**
