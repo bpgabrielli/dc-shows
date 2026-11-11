@@ -4,6 +4,41 @@ Each run prepends newly-detected shows here. Most recent at top.
 
 ---
 
+## 2026-11-11 — 24 new show(s)
+
+**Black Cat**
+- Erotic Expo — https://www.blackcatdc.com/shows/erotic-expo.html
+- Marcy Playground Wheatus — https://www.blackcatdc.com/shows/marcy-playground-wheatus.html
+- Undertale — https://www.blackcatdc.com/shows/undertale.html
+
+**IMP (9:30 Club / Anthem / Lincoln / Merriweather)**
+- All My Friends Tour With Pivot Gang — https://impconcerts.com/event/all-my-friends-tour-with-pivot-gang/
+- An Evening With Shadowgrass — https://impconcerts.com/event/an-evening-with-shadowgrass/
+- Beach Bunny Out Of Office Tour — https://impconcerts.com/event/beach-bunny-out-of-office-tour/
+- Ciaran — https://impconcerts.com/event/ciaran/
+- Earlybirds Club Girl Power Scream Along — https://impconcerts.com/event/earlybirds-club-girl-power-scream-along/
+- Flower Face — https://impconcerts.com/event/flower-face/
+- Gang Of Youths — https://impconcerts.com/event/gang-of-youths/
+- Grace Potter The Trespassers — https://impconcerts.com/event/grace-potter-the-trespassers/
+- Gurriers — https://impconcerts.com/event/gurriers/
+- Jake Minch Getting Big Tour — https://impconcerts.com/event/jake-minch-getting-big-tour/
+- The White Buffalo — https://impconcerts.com/event/the-white-buffalo/
+- Trampled By Turtles — https://impconcerts.com/event/trampled-by-turtles/
+- Whitney Light Upon The Lake 10Th Anniversary Tour — https://impconcerts.com/event/whitney-light-upon-the-lake-10th-anniversary-tour/
+
+**Union Stage Presents**
+- An Evening With Shenandoah Run Folk Music With A Kick — https://www.unionstagepresents.com/shows/an-evening-with-shenandoah-run-folk-music-with-a-kick-06-dec
+- Ana Gasteyer Sugar Booze Holiday Spectacular — https://www.unionstagepresents.com/shows/ana-gasteyer-sugar-booze-holiday-spectacular-06-dec
+- Eddie 9V — https://www.unionstagepresents.com/shows/eddie-9v-06-dec
+- Imani Graham — https://www.unionstagepresents.com/shows/imani-graham-03-dec
+- Jon Mclaughlin Home For The Holidays — https://www.unionstagepresents.com/shows/jon-mclaughlin-home-for-the-holidays-05-dec
+- Kyle Gordon — https://www.unionstagepresents.com/shows/kyle-gordon-05-dec
+- Local Scene Showcase Feat Suncrest Vinny Anthony — https://www.unionstagepresents.com/shows/local-scene-showcase-feat-suncrest-vinny-anthony-21-nov
+
+**Songbyrd Music House**
+- Vs Self 2 — https://songbyrddc.com/event/vs-self-2/
+
+---
 ## 2026-11-09 — 24 new show(s)
 
 **IMP (9:30 Club / Anthem / Lincoln / Merriweather)**
