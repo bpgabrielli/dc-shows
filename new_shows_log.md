@@ -4,6 +4,25 @@ Each run prepends newly-detected shows here. Most recent at top.
 
 ---
 
+## 2026-11-13 — 10 new show(s)
+
+**IMP (9:30 Club / Anthem / Lincoln / Merriweather)**
+- Dylan — https://impconcerts.com/event/dylan/
+- Goldie Boutilier The Godmother Tour — https://impconcerts.com/event/goldie-boutilier-the-godmother-tour/
+- Lukas Nelson Live — https://impconcerts.com/event/lukas-nelson-live/
+- Noga Erez Duck Season Tour 2027 — https://impconcerts.com/event/noga-erez-duck-season-tour-2027/
+- Priya Ragu — https://impconcerts.com/event/priya-ragu/
+
+**Union Stage Presents**
+- Bachelor Boys Band — https://www.unionstagepresents.com/shows/bachelor-boys-band-07-dec
+- Daily Stoic Live — https://www.unionstagepresents.com/shows/daily-stoic-live-09-dec
+- Ezcodylee Make America Stunt 4 Life Tour — https://www.unionstagepresents.com/shows/ezcodylee-make-america-stunt-4-life-tour-07-dec
+- Plain English With Derek Thompson Live — https://www.unionstagepresents.com/shows/plain-english-with-derek-thompson-live-08-dec
+- Robert Ellis — https://www.unionstagepresents.com/shows/robert-ellis-09-dec
+
+_Note: could not check Songbyrd Music House this run._
+
+---
 ## 2026-11-11 — 24 new show(s)
 
 **Black Cat**
