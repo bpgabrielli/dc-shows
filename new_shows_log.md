@@ -4,6 +4,38 @@ Each run prepends newly-detected shows here. Most recent at top.
 
 ---
 
+## 2026-11-16 — 23 new show(s)
+
+**IMP (9:30 Club / Anthem / Lincoln / Merriweather)**
+- Amira Elfeky It Was Only A Dream Tour — https://impconcerts.com/event/amira-elfeky-it-was-only-a-dream-tour/
+- Bigxthaplug Better Over Time Tour — https://impconcerts.com/event/bigxthaplug-better-over-time-tour/
+- Friendly Fires — https://impconcerts.com/event/friendly-fires/
+- Rio Romeo Personal Slot Machine Tour — https://impconcerts.com/event/rio-romeo-personal-slot-machine-tour/
+- Welcome To Night Vale Attack Of The Space People — https://impconcerts.com/event/welcome-to-night-vale-attack-of-the-space-people/
+
+**Union Stage Presents**
+- 2Dead Boyz X The Underachievers — https://www.unionstagepresents.com/shows/2dead-boyz-x-the-underachievers-09-dec
+- Ben Tufts Vanguard Fall Rock Band Concert — https://www.unionstagepresents.com/shows/ben-tufts-vanguard-fall-rock-band-concert-21-nov
+- Bill Kirchen — https://www.unionstagepresents.com/shows/bill-kirchen-11-dec
+- Comedian George Civeris — https://www.unionstagepresents.com/shows/comedian-george-civeris-11-dec
+- Fever Presents Ballet Of Lights 13 Dec 395C0 — https://www.unionstagepresents.com/shows/fever-presents-ballet-of-lights-13-dec-395c0
+- House Party A Sweaty Love Letter To The 2010S Rager — https://www.unionstagepresents.com/shows/house-party-a-sweaty-love-letter-to-the-2010s-rager-11-dec
+- Joe Jordan — https://www.unionstagepresents.com/shows/joe-jordan-12-dec
+- Milk Bone — https://www.unionstagepresents.com/shows/milk-bone-10-dec
+- Ocean S 32 Ahmad S 32Nd Birthday Bash — https://www.unionstagepresents.com/shows/ocean-s-32-ahmad-s-32nd-birthday-bash-12-dec
+- Octave Cat — https://www.unionstagepresents.com/shows/octave-cat-11-dec
+- Parvati And Cirie The Soulmate Tour — https://www.unionstagepresents.com/shows/parvati-and-cirie-the-soulmate-tour-10-dec
+- Premo Rice Another Night At The Chateau Live In Concert — https://www.unionstagepresents.com/shows/premo-rice-another-night-at-the-chateau-live-in-concert-11-dec
+- The Jury Experience Frankenstein On Trial The Man Who Defied God 13 Dec 9Ab8A — https://www.unionstagepresents.com/shows/the-jury-experience-frankenstein-on-trial-the-man-who-defied-god-13-dec-9ab8a
+- The Last Bison — https://www.unionstagepresents.com/shows/the-last-bison-10-dec
+- Vienna Jammers Union Stage — https://www.unionstagepresents.com/shows/vienna-jammers-union-stage-12-dec
+- Weird Phishes — https://www.unionstagepresents.com/shows/weird-phishes-12-dec
+
+**Songbyrd Music House**
+- Grrrls To The Front W Mac N Toss More — https://songbyrddc.com/event/grrrls-to-the-front-w-mac-n-toss-more/
+- Tipsy60 Presents Millennial Optimism Free Music Video Party — https://songbyrddc.com/event/tipsy60-presents-millennial-optimism-free-music-video-party/
+
+---
 ## 2026-11-13 — 10 new show(s)
 
 **IMP (9:30 Club / Anthem / Lincoln / Merriweather)**
