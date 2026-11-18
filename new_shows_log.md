@@ -4,6 +4,44 @@ Each run prepends newly-detected shows here. Most recent at top.
 
 ---
 
+## 2026-11-18 — 27 new show(s)
+
+**Black Cat**
+- Johnnie Guilbert — https://www.blackcatdc.com/shows/johnnie-guilbert.html
+
+**IMP (9:30 Club / Anthem / Lincoln / Merriweather)**
+- Akriila — https://impconcerts.com/event/akriila/
+- J Roddy Walston And The Automatic Band — https://impconcerts.com/event/j-roddy-walston-and-the-automatic-band/
+- Madra Salach — https://impconcerts.com/event/madra-salach/
+- Midrift — https://impconcerts.com/event/midrift/
+- Mod Sun Dont Be A Poet Tour — https://impconcerts.com/event/mod-sun-dont-be-a-poet-tour/
+- Pigeons Playing Ping Pong 4 — https://impconcerts.com/event/pigeons-playing-ping-pong-4/
+- Racing Mount Pleasant — https://impconcerts.com/event/racing-mount-pleasant/
+- Remi Wolf The Mud Tour — https://impconcerts.com/event/remi-wolf-the-mud-tour/
+- Robyn Hitchcock Live And Electric Full Band Shows — https://impconcerts.com/event/robyn-hitchcock-live-and-electric-full-band-shows/
+- Tauk — https://impconcerts.com/event/tauk/
+- Teenage Fanclub — https://impconcerts.com/event/teenage-fanclub/
+- Wes Parker — https://impconcerts.com/event/wes-parker/
+
+**Union Stage Presents**
+- Anthony Pirog Trio — https://www.unionstagepresents.com/shows/anthony-pirog-trio-13-dec
+- Fever Presents Ballet Of Lights — https://www.unionstagepresents.com/shows/fever-presents-ballet-of-lights-13-dec
+- Lady Radiator — https://www.unionstagepresents.com/shows/lady-radiator-14-dec
+- Rockabilly Rumble A Very Rockabilly Christmas — https://www.unionstagepresents.com/shows/rockabilly-rumble-a-very-rockabilly-christmas-14-dec
+- The Jury Experience Frankenstein On Trial The Man Who Defied God — https://www.unionstagepresents.com/shows/the-jury-experience-frankenstein-on-trial-the-man-who-defied-god-13-dec
+- The Trills Home For The Holidays — https://www.unionstagepresents.com/shows/the-trills-home-for-the-holidays-13-dec
+
+**Songbyrd Music House**
+- Asiris The Summerside Final Lap Tour — https://songbyrddc.com/event/asiris-the-summerside-final-lap-tour/
+- Ella Hunt Henry Jamison — https://songbyrddc.com/event/ella-hunt-henry-jamison/
+- Lightris — https://songbyrddc.com/event/lightris/
+- Montana 700 The Reminiscing Tour — https://songbyrddc.com/event/montana-700-the-reminiscing-tour/
+- Peel Dream Magazine North America 2027 — https://songbyrddc.com/event/peel-dream-magazine-north-america-2027/
+- She Says — https://songbyrddc.com/event/she-says/
+- Starbenders The Beast Goes On Tour — https://songbyrddc.com/event/starbenders-the-beast-goes-on-tour/
+- Trophy Wife — https://songbyrddc.com/event/trophy-wife/
+
+---
 ## 2026-11-16 — 23 new show(s)
 
 **IMP (9:30 Club / Anthem / Lincoln / Merriweather)**
