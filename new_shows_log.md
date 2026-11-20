@@ -4,6 +4,38 @@ Each run prepends newly-detected shows here. Most recent at top.
 
 ---
 
+## 2026-11-20 — 21 new show(s)
+
+**Black Cat**
+- Cryfest — https://www.blackcatdc.com/shows/cryfest.html
+- First Day Back — https://www.blackcatdc.com/shows/first-day-back.html
+- New Years Eve Ball — https://www.blackcatdc.com/shows/new-years-eve-ball.html
+- The Fuss — https://www.blackcatdc.com/shows/the-fuss.html
+
+**IMP (9:30 Club / Anthem / Lincoln / Merriweather)**
+- Acotar 7 Midnight Release Fae Ball — https://impconcerts.com/event/acotar-7-midnight-release-fae-ball/
+- Babytron The Iv Tour — https://impconcerts.com/event/babytron-the-iv-tour/
+- Horse Vision — https://impconcerts.com/event/horse-vision/
+- The Trl Party — https://impconcerts.com/event/the-trl-party/
+
+**Union Stage Presents**
+- An Evening With Lily Neill — https://www.unionstagepresents.com/shows/an-evening-with-lily-neill-16-dec
+- An Irish Christmas Doyle Ryan Mcauley — https://www.unionstagepresents.com/shows/an-irish-christmas-doyle-ryan-mcauley-17-dec
+- Ariana Grande Night — https://www.unionstagepresents.com/shows/ariana-grande-night-18-dec
+- Chris Simpson Of Mineral — https://www.unionstagepresents.com/shows/chris-simpson-of-mineral-18-dec
+- Club 1Bd Ft Durand Bernarr Dc — https://www.unionstagepresents.com/shows/club-1bd-ft-durand-bernarr-dc-17-dec
+- Dos Santos — https://www.unionstagepresents.com/shows/dos-santos-18-dec
+- Key Glock Big5 Live — https://www.unionstagepresents.com/shows/key-glock-big5-live-16-dec
+- Sammy Obeid — https://www.unionstagepresents.com/shows/sammy-obeid-18-dec
+- Skilla Baby The Price Of Fame Tour — https://www.unionstagepresents.com/shows/skilla-baby-the-price-of-fame-tour-15-dec
+- Trsh Gone Fishin Tour — https://www.unionstagepresents.com/shows/trsh-gone-fishin-tour-15-dec
+
+**Songbyrd Music House**
+- Love Letter — https://songbyrddc.com/event/love-letter/
+- Mad Skillz — https://songbyrddc.com/event/mad-skillz/
+- Ron Gallo Heavy Meta X Tour — https://songbyrddc.com/event/ron-gallo-heavy-meta-x-tour/
+
+---
 ## 2026-11-18 — 27 new show(s)
 
 **Black Cat**
