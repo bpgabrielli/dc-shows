@@ -4,6 +4,36 @@ Each run prepends newly-detected shows here. Most recent at top.
 
 ---
 
+## 2026-11-24 — 21 new show(s)
+
+**IMP (9:30 Club / Anthem / Lincoln / Merriweather)**
+- Adela — https://impconcerts.com/event/adela/
+
+**Union Stage Presents**
+- An Evening With Trace Bundy — https://www.unionstagepresents.com/shows/an-evening-with-trace-bundy-20-dec
+- Candlelight Christmas Carols On Strings — https://www.unionstagepresents.com/shows/candlelight-christmas-carols-on-strings-20-dec
+- Candlelight Christmas Carols On Strings 20 Dec 1Dcd4 — https://www.unionstagepresents.com/shows/candlelight-christmas-carols-on-strings-20-dec-1dcd4
+- Candlelight Christmas Classics — https://www.unionstagepresents.com/shows/candlelight-christmas-classics-19-dec
+- Candlelight Tribute To Whitney Houston — https://www.unionstagepresents.com/shows/candlelight-tribute-to-whitney-houston-19-dec
+- Chad Frick — https://www.unionstagepresents.com/shows/chad-frick-19-dec
+- Club Slayyyy — https://www.unionstagepresents.com/shows/club-slayyyy-19-dec
+- Freestyle Dansfit — https://www.unionstagepresents.com/shows/freestyle-dansfit-19-dec
+- Gorilla Glue Lil Nakur — https://www.unionstagepresents.com/shows/gorilla-glue-lil-nakur-14-dec
+- Jammin Java Presents Todd Wright S 24Th Annual Santa Clauster F Christmas Spectacular — https://www.unionstagepresents.com/shows/jammin-java-presents-todd-wright-s-24th-annual-santa-clauster-f-christmas-spectacular-22-dec
+- Jammin Java Presents Todd Wright S 24Th Annual Santa Clauster F Christmas Spectacular — https://www.unionstagepresents.com/shows/jammin-java-presents-todd-wright-s-24th-annual-santa-clauster-f-christmas-spectacular-23-dec
+- Kontrolled Khaos Annual Christmas Concert — https://www.unionstagepresents.com/shows/kontrolled-khaos-annual-christmas-concert-20-dec
+- Love In The Club 2000S R B Hip Hop Dance Party — https://www.unionstagepresents.com/shows/love-in-the-club-2000s-r-b-hip-hop-dance-party-26-dec
+- Santallica — https://www.unionstagepresents.com/shows/santallica-19-dec
+- Seasons Bleghsings W Gone Cold Thin The Herd Va Uga Buga Cursor Age Of Ruin — https://www.unionstagepresents.com/shows/seasons-bleghsings-w-gone-cold-thin-the-herd-va-uga-buga-cursor-age-of-ruin-19-dec
+- Wharf Rats Holiday Show — https://www.unionstagepresents.com/shows/wharf-rats-holiday-show-20-dec
+- Wrizzards The Comeback Show — https://www.unionstagepresents.com/shows/wrizzards-the-comeback-show-27-dec
+
+**Songbyrd Music House**
+- Sam Burton — https://songbyrddc.com/event/sam-burton/
+- Sdr Label Showcase — https://songbyrddc.com/event/sdr-label-showcase/
+- Weezel Ween Tribute Band — https://songbyrddc.com/event/weezel-ween-tribute-band/
+
+---
 ## 2026-11-20 — 21 new show(s)
 
 **Black Cat**
