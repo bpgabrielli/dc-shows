@@ -4,6 +4,22 @@ Each run prepends newly-detected shows here. Most recent at top.
 
 ---
 
+## 2026-11-25 — 7 new show(s)
+
+**Black Cat**
+- Oddisee — https://www.blackcatdc.com/shows/oddisee.html
+
+**IMP (9:30 Club / Anthem / Lincoln / Merriweather)**
+- Kendall Street Company — https://impconcerts.com/event/kendall-street-company/
+- Thievery Corporation 3 — https://impconcerts.com/event/thievery-corporation-3/
+
+**Union Stage Presents**
+- Alex Jean The Welcome Home Tour — https://www.unionstagepresents.com/shows/alex-jean-the-welcome-home-tour-29-dec
+- Candlelight Tribute To Drake — https://www.unionstagepresents.com/shows/candlelight-tribute-to-drake-03-dec
+- Lectures On Tap — https://www.unionstagepresents.com/shows/lectures-on-tap-08-dec
+- Winter Underground Showcase — https://www.unionstagepresents.com/shows/winter-underground-showcase-30-dec
+
+---
 ## 2026-11-24 — 21 new show(s)
 
 **IMP (9:30 Club / Anthem / Lincoln / Merriweather)**
